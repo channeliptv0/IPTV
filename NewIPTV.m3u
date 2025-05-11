@@ -382,9 +382,6 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/sangeetbangl
 
 
 
-#EXTINF:-1 group-title="Bangla",Zee Bangla (30min Left)
-
-https://catchup.yuppcdn.net/amazonv2/36/preview/zeebangla/master/chunklist.m3u8
 
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD: Star Jalsha (FHD)" tvg-
@@ -400,7 +397,7 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/StarJalshaHd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSynRSj31bPElV0r-SBliTR5hSUcIzXV5AY5g&usqp=CAU" group-
 
-title="ZEE5",ZEE Bangla HD
+title="Bangla",ZEE Bangla HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) 
 
 Chrome/130.0.0.0 Safari/537.36
