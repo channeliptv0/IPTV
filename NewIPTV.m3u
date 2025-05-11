@@ -280,6 +280,10 @@ q=tbn:ANd9GcT2L1XzAytScLX1kNIcd5Fg8cPPW5ASZAA17l2eoZj59Df2D3rk9PcyuDOm&s=10" gro
 
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/SkySportsCricketHd.m3u8
 
+#EXTINF:-1 tvg-id="skysportsplus.uk" tvg-name="Sky Sports Plus" group-title="Sports",Sky Sports Plus
+
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/SkySportsPlus.m3u8
+
 
 
 #EXTINF:-1 tvg-id="cric" tvg-name="Fox Sport 501 HD" tvg-logo="https://media.info/l/o/6/6550.1489223922.png" group-title="Sports",Fox 
@@ -308,6 +312,18 @@ cors.onrender.com/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/d
 
 
 
+
+#EXTINF:-1 tvg-id="cric" tvg-name="WILLOW CRICKET HD" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="Sports",WILLOW CRICKET 
+
+HD
+#https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash-
+
+sd/enc/vodez4h7i9/out/v1/e929aee089864ce98e4c335d19f41e16/cenc-sd.mpd?|
+
+drmScheme=clearkey&drmLicense=7ec6d225c1d219152933378e75e1c466:304eec31418fb552a0b57fdac515d101
+#http://starshare.live/live/bana/bana/215.m3u8
+
+https://github.com/rahul979854/Channels/raw/main/WillowCricketHd.m3u8
 
 
 
@@ -378,8 +394,6 @@ https://server.playontv.in/SAMAYKOLKATA/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Sangeet Bangla
 
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/sangeetbangla.m3u8
-
-
 
 
 
@@ -661,7 +675,7 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 group-title="Music",MTV HD Plus
 #https://starshare.live/live/bana/bana/23791.m3u8
 #https://live.drmlive-02.workers.dev/jc/1145.m3u8
-https://github.com/rahul979854/Channels/raw/main/MTVHd.m3u8
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/MTVHD.m3u8
 
 
 
@@ -848,6 +862,23 @@ https://pubads.g.doubleclick.net/ssai/event/UI4QFJ_uRk6aLxIcADqa_A/master.m3u8
 
 HD 
 https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Star Utshab
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/StarUthsab.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Entertainment",Star Bharat HD
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/StarBharatHD.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Adventure",ID
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ID.m3u8
+
+
+
+
+
 
 
 
