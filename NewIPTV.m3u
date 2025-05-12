@@ -327,19 +327,20 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpjuiCtPy318T8ckhoNIm92rXvIY9D9e0QO4NH_ljmBfukyCqJ4ueUhcZ&s=10" group-title="Hindi Movies",Star GOLD Hd
 #http://starshare.live/live/bana/bana/98858.m3u8
 #https://starshare.live/live/bana/bana/9375.m3u8
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/StarGoldHd.m3u8
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarGoldHd.m3u8
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD 2 Hd
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/StarGold2Hd.m3u8
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarGold2Hd.m3u8
 
 #EXTINF:-1 tvg-id="zee" tvg-name="IN: &xplor(FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OhtB9XC-V_tzHHV2WYmGG1bT7VJLeiUczBbSADwMyfwQBkTEEV03Tg2S&s=10" group-title="Hindi Movies",&xplor Hd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #https://la.drmlive.au/tp/zee-209.m3u8 
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/%26XplorHd.m3u8
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/%26XplorHd.m3u8
 #https://live.drmlive-02.workers.dev/zee/209.m3u8
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/%26XplorHd.m3u8
 
 #EXTINF:-1 tvg-id="andpicturehd.in" tvg-logo="" group-title="Hindi Movies",And Picture Hd
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/andPictureHD.m3u8
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/andPictureHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="6" group-title="Hindi Movies",Sony Max 
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
