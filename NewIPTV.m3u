@@ -333,7 +333,6 @@ https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv
 #EXTINF:-1 tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png" group-title="Bangla",Calcutta News
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/samay-kolkata.png" group-title="Bangla",Samay Kolkata
 https://server.playontv.in/SAMAYKOLKATA/index.m3u8
 
@@ -349,8 +348,6 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/s
 #https://starshare.live/live/bana/bana/98883.m3u8
 #https://starshare.live/live/bana/bana/198.m3u8
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarJalshaHd.m3u8
-
-
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSynRSj31bPElV0r-SBliTR5hSUcIzXV5AY5g&usqp=CAU" group-title="Bangla",ZEE Bangla HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -379,6 +376,17 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -433,6 +441,13 @@ https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",B4U Kadak
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -497,8 +512,6 @@ https://mhlive.paramountinfosystem.com/mhonemusictest/d0dbe915091d400bd8ee7f27f0
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/dbjnG3X/20240803-105403.png" group-title="Music",E24
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
-
-
 
 #EXTINF:-1 tvg-id="mtvhdplus" tvg-name="MTV HD Plus" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV HD Plus
 #https://starshare.live/live/bana/bana/23791.m3u8
@@ -593,6 +606,9 @@ https://amg00866-amg00866c6-xiaomi-in-3554.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",News 18 Gujarati
 https://amg00866-amg00866c7-xiaomi-in-3551.playouts.now.amagi.tv/playlist.m3u8
+
+
+
 
 
 
