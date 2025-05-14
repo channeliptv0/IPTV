@@ -594,8 +594,39 @@ https://amg00866-amg00866c6-xiaomi-in-3554.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",News 18 Gujarati
 https://amg00866-amg00866c7-xiaomi-in-3551.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",PakNews1
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/PakNews1.m3u8
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="DunyaNews.pk" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="Others Countries Channel",Dunya News
+https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="LahoreNews.pk" tvg-logo="https://i.imgur.com/bQfQeEA.jpeg" group-title="Others Countries Channel",Lahore News
+https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Others Countries Channel", BTV Sports HD Ban Vs Zim
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1709/output/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Others Countries Channel", Jamuna TV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1701/output/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Others Countries Channel" tvg-logo=" ", Banglavision TV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1715/output/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Others Countries Channel" tvg-logo=" ", NTV TV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1716/output/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Others Countries Channel" tvg-logo=" ", Somoy TV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1702/output/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Others Countries Channel" tvg-logo=" ", Channel 24 TV
+https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/master.m3u8
 
 
 
@@ -653,7 +684,6 @@ https://pubads.g.doubleclick.net/ssai/event/rPzF28qORbKZkhci_04fdQ/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Star Utshab
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarUthsab.m3u8
 
-
 #EXTINF:-1 tvg-logo="" group-title="Entertainment",Star Bharat HD
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarBharatHD.m3u8
 
@@ -686,6 +716,12 @@ https://amg00426-lds-amg00426c1-samsung-th-4628.playouts.now.amagi.tv/playlist.m
 
 #EXTINF:-1 tvg-logo="" group-title="Adventure", History Hit
 https://amg00426-lds-amg00426c2-samsung-th-4625.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adventure", BBC Earth US
+https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adventure", Wild Nature
+https://wildearth-plex.amagi.tv/master.m3u8
 
 
 
