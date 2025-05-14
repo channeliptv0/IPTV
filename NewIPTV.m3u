@@ -449,6 +449,24 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/AndP
 #https://la.drmlive.au/tp/zee-channel_2105335046.m3u8
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/AndFlixHd.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PIX-HD-New-Logo.png" tvg-chno="9" group-title="English Movie",Sony pix HD 
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/SONYM3U8/Sony%20pix%20HD.m3u8
+
+
+
+
+#https://ranapk.spidy.online/MACX/STREAM4K1/play.m3u8?id=474198
+#http://stb.iphd.tv:80/live/91858404/7757776/102496.m3u8
+#http://stb.iphd.tv:80/live/14265424/9991524/102496.m3u8
+#http://stb.iphd.tv:80/live/jWLyE3zChH/TTt5yR4ysV/102496.m3u8
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="DistroTVUS_102312" tvg-logo="https://a.jsrdn.com/hls/23111/9xm/logo_20240607_163326_70.png" group-title="Music",9XM
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23111&ads.content_duration=18000&ads.episode_id=102312&ads.show_id=3612&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CBollywood%2CMusic%20Video%2CAsian&ads.showRating=TV-G&ads.episodeRating=TV-G&ads.language=hi&ads.showtitle=9XM&ads.episodetitle=9XM&ads.keywords=9X%20Media%2CMusic%2Cdesi&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 
