@@ -565,6 +565,9 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 #https://live.drmlive-02.workers.dev/jc/1145.m3u8
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/MTVHD.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Music" tvg-logo=" ", MTVHD
+https://rex-streaming.vercel.app/api/x/109962.m3u8
+
 
 
 
