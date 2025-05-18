@@ -170,7 +170,7 @@ https://rex-streaming.vercel.app/api/x/109988.m3u8
 https://rex-streaming.vercel.app/api/x/109988.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Sony Sports 5
 https://rex-streaming.vercel.app/api/x/167580.m3u8
-#EXTINF:-1 tvg-logo="" group-title="Cricket ??" tvg-logo=" ", Astro Cricket
+#EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Astro Cricket
 https://rex-streaming.vercel.app/api/x/167581.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Willow 2 HD
 https://rex-streaming.vercel.app/api/x/167582.m3u8
