@@ -604,13 +604,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatv-speed-mi-xiao
 #EXTINF:-1 tvg-id="BharatSamacharTV.in" tvg-logo="https://i.imgur.com/x5f8E3K.png" group-title="News",Bharat Samachar TV
 https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",CNN News 18 India
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",CNN News 18 India
 https://amg00866-amg00866c1-xiaomi-in-3511.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Aap Ki Adalat
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01550-indiatv-indiatv-aapkiadalat-mi-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",CNN News 18
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",CNN News 18
 https://amg00866-amg00866c5-xiaomi-in-3550.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",Zee Business
