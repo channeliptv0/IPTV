@@ -153,12 +153,47 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/ZeeT
 
 
 
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Cricket",Star Sports 1 HD New
+https://rex-streaming.vercel.app/api/x/109987.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Star Sports 2 HD IPL-2025 TP
+https://rex-streaming.vercel.app/api/x/109988.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Sony Sports 2 TP
+https://rex-streaming.vercel.app/api/x/109984.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Sony Sports 1 
+https://rex-streaming.vercel.app/api/x/109983.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Star Sports Select 1 Backup tp
+https://rex-streaming.vercel.app/api/x/167578.m3u8
+#https://rex-streaming.vercel.app/api/x/109993.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Star Sports Select 2 Backup tp
+https://rex-streaming.vercel.app/api/x/167579.m3u8
+#https://rex-streaming.vercel.app/api/x/109994.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Sony Sports 5
+https://rex-streaming.vercel.app/api/x/167580.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Astro Cricket
+https://rex-streaming.vercel.app/api/x/167581.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Willow 2 HD
+https://rex-streaming.vercel.app/api/x/167582.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Willow
+https://rex-streaming.vercel.app/api/x/167583.m3u8
+#EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", EuroSports
+https://rex-streaming.vercel.app/api/x/167585.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD SPORTS" tvg-logo="" group-title="Sports",DD SPORTS
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/ddsports.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Sports",Star Sports 1 HD New
-https://rex-streaming.vercel.app/api/x/109987.m3u8
-
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 Hd " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports",STAR SPORTS 1 Hd
 #http://starshare.live/live/bana/bana/9397.m3u8
@@ -470,6 +505,18 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/AndF
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-PIX-HD-New-Logo.png" tvg-chno="9" group-title="English Movie",Sony pix HD 
 https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 #https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/SONYM3U8/Sony%20pix%20HD.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English Movie", Star World
+https://rex-streaming.vercel.app/api/x/109971.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English Movie", Star Movies
+https://rex-streaming.vercel.app/api/x/109970.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English Movie", Movies HD Now
+https://rex-streaming.vercel.app/api/x/109968.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="English Movie", Movies HD Now
+https://rex-streaming.vercel.app/api/x/109965.m3u8
 
 
 
