@@ -192,7 +192,7 @@ https://rex-streaming.vercel.app/api/x/167585.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD SPORTS" tvg-logo="https://github.com/channeliptv0/IPTV/blob/main/Logo/dd-sports.png" group-title="Sports",DD SPORTS
+#EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD SPORTS" tvg-logo="https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/Logo/dd-sports.png" group-title="Sports",DD SPORTS
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/ddsports.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 Hd " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports",STAR SPORTS 1 Hd
