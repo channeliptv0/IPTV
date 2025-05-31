@@ -628,6 +628,13 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeebusiness-xiaomi
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",CNBC TV 18
 https://amg00866-amg00866c2-xiaomi-in-3516.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="News" tvg-logo="https://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
+
+#EXTINF:-1 group-title="News" tvg-logo="https://static.iptv-epg.com/in/NDTV24x7.in.png",NDTV 24X7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="News",TV9 Marathi
