@@ -380,7 +380,8 @@ https://server.playontv.in/SAMAYKOLKATA/index.m3u8
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/sangeetbangla.m3u8
 
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Rupasi Bangla
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/RupasiBangla.m3u8
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD: Star Jalsha (FHD)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="Bangla",Star Jalsha HD
 #http://starshare.live/live/bana/bana/8540.m3u8
@@ -406,6 +407,9 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/Col
 #https://starshare.live/live/bana/bana/98884.m3u8
 #https://starshare.live:443/live/bana/bana/425.m3u8
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/JalshaMoviesHd.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Colours Bangla Cinema
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/ColoursBnaglaCinema.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
