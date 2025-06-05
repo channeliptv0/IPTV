@@ -181,16 +181,16 @@ https://live.drmlive-02.workers.dev/zee/0-9-pictures.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Zee",Zee Cinema
 https://live.drmlive-02.workers.dev/zee/0-9-zeecinema.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Zee", Channel 2105
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Zee", &Flix HD
 https://live.drmlive-02.workers.dev/zee/0-9-channel_2105335046.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Zee",176
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Zee",Zee Clasic
 https://live.drmlive-02.workers.dev/zee/0-9-176.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Zee",209
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Zee",& Xlopr HD
 https://live.drmlive-02.workers.dev/zee/0-9-209.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Zee",216
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Zee",Zee Bioscope
 https://live.drmlive-02.workers.dev/zee/0-9-216.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Zee",Big Ganga
