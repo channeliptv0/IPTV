@@ -538,6 +538,26 @@ http://103.145.48.150:90/laosat24/taratv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",ATN Bangla
+http://38.96.178.201/live/ATNBangla/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla", Bijoy TV
+http://38.96.178.201/live/BijoyTV/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla", Amar Digital
+https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla", Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla", Aakash Aath
+http://38.96.178.201/live/AkashAath/index.m3u8
+
+
+
+
+
+
 
 
 
@@ -554,8 +574,9 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpjuiCtPy318T8ckhoNIm92rXvIY9D9e0QO4NH_ljmBfukyCqJ4ueUhcZ&s=10" group-title="Hindi Movies",Star GOLD Hd
 #http://starshare.live/live/bana/bana/98858.m3u8
 #https://starshare.live/live/bana/bana/9375.m3u8
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarGoldHd.m3u8
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarGoldHd.m3u8
 #https://rex-streaming.vercel.app/api/x/109959.m3u8
+http://38.96.178.201/live/StarGold/index.m3u8
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD 2 Hd
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarGold2Hd.m3u8
@@ -640,13 +661,16 @@ https://rex-streaming.vercel.app/api/x/109971.m3u8
 #EXTINF:-1 tvg-logo="" group-title="English Movie", Star Movies
 https://rex-streaming.vercel.app/api/x/109970.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="English Movie", Movies HD Now
-https://rex-streaming.vercel.app/api/x/109968.m3u8
+#EXTINF:-1 tvg-logo="" group-title="English Movie", Movies Now HD
+#https://rex-streaming.vercel.app/api/x/109968.m3u8
+http://udigitalott.ridsys.in/riptv/live/stream44/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English Movie", MN+ HD
-https://rex-streaming.vercel.app/api/x/109965.m3u8
+#https://rex-streaming.vercel.app/api/x/109965.m3u8
+http://udigitalott.ridsys.in/riptv/live/stream92/index.m3u8
 
-
+#EXTINF:-1 tvg-logo="" group-title="English Movie", MNX HD
+http://udigitalott.ridsys.in/riptv/live/stream42/index.m3u8
 
 
 
@@ -699,9 +723,17 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/M
 #EXTINF:-1 tvg-logo="" group-title="Music" tvg-logo=" ", MTVHD
 https://rex-streaming.vercel.app/api/x/109962.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Music" tvg-logo=" ", Zoom
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
+#EXTINF:-1 tvg-logo="" group-title="Music" tvg-logo=" ", MON TV
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Sangeet Bangla
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/sangeetbangla.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Dhoom Music
+http://38.96.178.201/live/Dhoom/index.m3u8
 
 
 
@@ -925,8 +957,12 @@ https://amg00426-lds-amg00426c2-samsung-th-4625.playouts.now.amagi.tv/playlist.m
 #EXTINF:-1 tvg-logo="" group-title="Adventure", BBC Earth US
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Adventure", Wild Nature
+#EXTINF:-1 tvg-logo="" group-title
+#EXTINF:-1 tvg-logo="" group-title="Adventure", Wild Nature="Adventure", Wild Nature
 https://wildearth-plex.amagi.tv/master.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Adventure", Wild Nature="Adventure", CTV Nature
+http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 
 
 
