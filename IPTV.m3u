@@ -582,7 +582,7 @@ http://38.96.178.201/live/StarGold/index.m3u8
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarGold2Hd.m3u8
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD Select Hd
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarGoldSelectHd.m3u8
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarGoldSelectHD.m3u8
 #https://rex-streaming.vercel.app/api/x/109960.m3u8
 
 #EXTINF:-1 tvg-id="zee" tvg-name="IN: &xplor(FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OhtB9XC-V_tzHHV2WYmGG1bT7VJLeiUczBbSADwMyfwQBkTEEV03Tg2S&s=10" group-title="Hindi Movies",&xplor Hd
