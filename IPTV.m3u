@@ -931,6 +931,7 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/Sta
 
 #EXTINF:-1 tvg-logo="" group-title="Adventure",Discovery HD
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/DiscoveryHD.m3u8
+#http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Adventure",National Geography HD
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/NationalGeographyHD.m3u8
@@ -957,7 +958,6 @@ https://amg00426-lds-amg00426c2-samsung-th-4625.playouts.now.amagi.tv/playlist.m
 #EXTINF:-1 tvg-logo="" group-title="Adventure", BBC Earth US
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title
 #EXTINF:-1 tvg-logo="" group-title="Adventure", Wild Nature="Adventure", Wild Nature
 https://wildearth-plex.amagi.tv/master.m3u8
 
@@ -979,6 +979,20 @@ http://line.ultrab.xyz:80/live/ZeeALI1/465841/112864.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Kids", Sonic
 http://extraott-iptv.com:88/live/0229477349/8104258135/400159784.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kids", Disney XD
+http://38.96.178.201/live/DisneyXD/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
