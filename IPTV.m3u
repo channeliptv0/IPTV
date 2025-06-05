@@ -941,8 +941,8 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/N
 https://wildearth-plex.amagi.tv/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Adventure",Animal Planet Hd
-http://starshare.live/live/bana/bana/182.m3u8
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/AnimalsPlanetHd.m3u8
+#http://starshare.live/live/bana/bana/182.m3u8
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/AnimalsPlanetHd.m3u8
 #http://udigitalott.ridsys.in/riptv/live/stream90/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Adventure",River Monstors
