@@ -284,7 +284,6 @@ https://smart.bengaldigital.live/star-sports-2/index.m3u8
 #https://live.drmlive-02.workers.dev/jc/122.m3u8
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarSports2Hindi.m3u8
 
-
 #EXTINF:-1 tvg-id="starsports3.in" tvg-name="Star Sports 3" tvg-logo="" group-title="Sports",Star Sports 3
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/starsports3.m3u8
 
@@ -374,7 +373,8 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/A
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/WillowCricketHd.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", Willow 2 HD
-https://rex-streaming.vercel.app/api/x/167582.m3u8
+#https://rex-streaming.vercel.app/api/x/167582.m3u8
+https://rex-streaming.vercel.app/api/BDIX/167582.m3u8|user-agent=@xfireflix
 
 #EXTINF:-1 tvg-id="DistroTVUS_79275" tvg-logo="https://a.jsrdn.com/hls/23038/bein-sports-xtra/logo_20231219_184505_68.png" group-title="Sports",beIN SPORTS Xtra
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23038&ads.content_duration=18000&ads.episode_id=79275&ads.show_id=3125&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CSports%20Radio%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=beIN%20SPORTS%20Xtra&ads.episodetitle=beIN%20SPORTS%20Xtra&ads.keywords=beIN%20Sports%2CSports%2CbeIN&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=bein-xtra&ads.islive=1&ads.streamtype=live&ads.vf=20241020
@@ -383,7 +383,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23038&ads.content_duration=18000&ads.episode_id=79276&ads.show_id=3126&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CSports%20Radio%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=beIN%20SPORTS%20Xtra%20en%20Espan%CC%83ol&ads.episodetitle=beIN%20SPORTS%20Xtra%20en%20Espan%CC%83ol&ads.keywords=beIN%20Sports%2CSports%2CbeIN%2CEspanol%2CSpanish&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=bein-xtra-es&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 
 #EXTINF:-1 tvg-logo="" tvg-logo="" group-title="Sports", EuroSports
-https://rex-streaming.vercel.app/api/x/167585.m3u8
+#https://rex-streaming.vercel.app/api/x/167585.m3u8
+https://rex-streaming.vercel.app/api/BDIX/167585.m3u8|user-agent=@xfireflix
 
 
 
@@ -445,11 +446,12 @@ https://server.playontv.in/SAMAYKOLKATA/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Sangeet Bangla
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/sangeetbangla.m3u8
-
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/sangeetbangla.m3u8
+http://38.96.178.201/live/SangeetBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Rupasi Bangla
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/RupasiBangla.m3u8
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/RupasiBangla.m3u8
+http://38.96.178.201/live/RuposhiBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD: Star Jalsha (FHD)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="Bangla",Star Jalsha HD
 #http://starshare.live/live/bana/bana/8540.m3u8
@@ -479,6 +481,10 @@ http://38.96.178.201/live/ColorsBangla/index.m3u8
 #https://starshare.live/live/bana/bana/98884.m3u8
 #https://starshare.live:443/live/bana/bana/425.m3u8
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/JalshaMoviesHd.m3u8
+
+
+#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES HD
+http://38.96.178.201/live/JalshaMovies/index.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebanglacinema/list/270x152/1170x658withlogo37ae3406ee15436ab22f702a95eedaa7.png" group-title="",Zee Bangla Cinema
 https://live.drmlive-02.workers.dev/zee/0-9-zeebanglacinema.m3u8
@@ -625,10 +631,12 @@ https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English Movie", Star World
-https://rex-streaming.vercel.app/api/x/109971.m3u8
+#https://rex-streaming.vercel.app/api/x/109971.m3u8
+https://rex-streaming.vercel.app/api/BDIX/109971.m3u8|user-agent=@xfireflix
 
 #EXTINF:-1 tvg-logo="" group-title="English Movie", Star Movies
-https://rex-streaming.vercel.app/api/x/109970.m3u8
+#https://rex-streaming.vercel.app/api/x/109970.m3u8
+https://rex-streaming.vercel.app/api/BDIX/109970.m3u8|user-agent=@xfireflix
 
 #EXTINF:-1 tvg-logo="" group-title="English Movie", Movies Now HD
 #https://rex-streaming.vercel.app/api/x/109968.m3u8
@@ -690,7 +698,8 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/MTVHD.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Music" tvg-logo=" ", MTVHD
-https://rex-streaming.vercel.app/api/x/109962.m3u8
+#https://rex-streaming.vercel.app/api/x/109962.m3u8
+https://rex-streaming.vercel.app/api/BDIX/109962.m3u8|user-agent=@xfireflix
 
 #EXTINF:-1 tvg-logo="" group-title="Music" tvg-logo=" ", Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
