@@ -903,6 +903,15 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/Sta
 
 
 
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-logo="" group-title="Adventure",Discovery HD
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/DiscoveryHD.m3u8
 #http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
@@ -940,6 +949,15 @@ https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Adventure", Wild Nature="Adventure", CTV Nature
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ID.png" group-title="Adventure", Investigation Discovery
+https://sflex07.fun:443/07/jio/app/ts_live_527.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -969,6 +987,19 @@ https://sflex07.fun:443/07/jio/app/ts_live_816.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids", Sony Yay Hindi
 https://sflex07.fun:443/07/jio/app/ts_live_872.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
