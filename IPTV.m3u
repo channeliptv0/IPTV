@@ -526,6 +526,9 @@ http://38.96.178.201/live/ColorsBangla/index.m3u8
 #https://starshare.live:443/live/bana/bana/425.m3u8
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/JalshaMoviesHd.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Zee",Zee Bangla Cinema
+https://live.drmlive-02.workers.dev/zee/0-9-zeebanglacinema.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Colours Bangla Cinema
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/ColoursBnaglaCinema.m3u8
 
