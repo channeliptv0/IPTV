@@ -155,19 +155,19 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/ZeeT
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Star%20Sports%201%40.jpeg"group-title="Cricket",Star Sports 1 HD New
-https://rex-streaming.vercel.app/api/xfireflix/109987.m3u8|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/109987.m3u8|user-agent=@xfireflix
 #EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Star Sports 2 HD
-https://rex-streaming.vercel.app/api/xfireflix/109988.m3u8|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/109988.m3u8|user-agent=@xfireflix
 #EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Star Sports 1 HD Hindi
-https://rex-streaming.vercel.app/api/xfireflix/109986.m3u8|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/109986.m3u8|user-agent=@xfireflix
 #EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Star Sports Select 1 Backup tp
 https://rex-streaming.vercel.app/api/x/167578.m3u8|user-agent=@xfireflix
 #EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Star Sports Select 2 Backup tp
 https://rex-streaming.vercel.app/api/x/167579.m3u8|user-agent=@xfireflix
 #EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Sony Sports 1
-https://rex-streaming.vercel.app/api/x/109983.m3u8|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/109983.m3u8|user-agent=@xfireflix
 #EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Sony Sports 2
-https://rex-streaming.vercel.app/api/x/109984.m3u8|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/109984.m3u8|user-agent=@xfireflix
 #EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Sony Sports 5
 https://rex-streaming.vercel.app/api/x/167580.m3u8|user-agent=@xfireflix
 #EXTINF:-1 tvg-logo="" group-title="Cricket" tvg-logo=" ", Astro Cricket
