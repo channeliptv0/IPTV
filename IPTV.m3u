@@ -963,6 +963,7 @@ http://cool365.xyz:900/live/4160189881/DB4ACD54/400159786.m3u8
 
 
 
+#EXTM3U
 #EXTINF:-1 tvg-id="Sun Bangla" tvg-logo="https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg" group-title="Indian Bangla",Sun Bangla
 https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
 #EXTINF:-1 tvg-id="Sun TV" tvg-logo="https://sund-images.sunnxt.com/194408/640x360_SunTV_194408_2617a80e-4f90-42fa-b13a-acc8d7c97f9e.jpg" group-title="Sun NX",Sun TV
