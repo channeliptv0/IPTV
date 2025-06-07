@@ -39,11 +39,11 @@ https://pubads.g.doubleclick.net/ssai/event/H_ZvXWqHRGKpHcdDE5RcDA/master.m3u8
 https://pubads.g.doubleclick.net/ssai/event/40H5HfwWTZadFGYkBTqagg/master.m3u8
 #https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/SONYM3U8/SonyYAYHD.m3u8
 
-#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://i.imgur.com/9Qq8DKh.png" group-title="Sony LIV ",Sony Kal
+#EXTINF:-1 tvg-id="SonyKALHindi.us" tvg-logo="https://c.evidon.com/pub_logos/2796-2021122219404475.png" group-title="Sony LIV ",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/SONYM3U8/SonyKal.m3u8
 
-#EXTINF:-1 tvg-chno="575334444" group-title="Sony LIV ",Sony aath HD 
+#EXTINF:-1 tvg-chno="575334444" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_aath.png" group-title="Sony LIV ",Sony aath HD 
 https://pubads.g.doubleclick.net/ssai/event/pSVzGmMpQR6jdmwwJg87OQ/master.m3u8
 #https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/SONYM3U8/SonyAATHHD.m3u8
 
@@ -516,7 +516,8 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla", Aakash Aath
 http://38.96.178.201/live/AkashAath/index.m3u8
 
-
+#EXTINF:-1 tvg-id="1669" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Bangla", Sun Bangla
+https://sflex07.fun:443/07/jio/app/ts_live_1669.m3u8
 
 
 
@@ -946,19 +947,29 @@ http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids", Pogo Hindi
+https://sflex07.fun:443/07/jio/app/ts_live_559.m3u8
+#http://line.ultrab.xyz:80/live/ZeeALI1/465841/112864.m3u8
+
+#EXTINF:-1 tvg-id="815" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids", Sonic Hindi
+https://sflex07.fun:443/07/jio/app/ts_live_815.m3u8
+#http://extraott-iptv.com:88/live/0229477349/8104258135/400159784.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids", Discovery Kids Hindi
+https://sflex07.fun:443/07/jio/app/ts_live_554.m3u8
+#http://38.96.178.201/live/DisneyXD/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids", Nick Hindi
+https://sflex07.fun:443/07/jio/app/ts_live_545.m3u8
+#http://cool365.xyz:900/live/4160189881/DB4ACD54/400159786.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network Hindi
+https://sflex07.fun:443/07/jio/app/ts_live_816.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids", Sony Yay Hindi
+https://sflex07.fun:443/07/jio/app/ts_live_872.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="Kids", Pogo
-http://line.ultrab.xyz:80/live/ZeeALI1/465841/112864.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Kids", Sonic
-http://extraott-iptv.com:88/live/0229477349/8104258135/400159784.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Kids", Disney XD
-http://38.96.178.201/live/DisneyXD/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Kids", Nick
-http://cool365.xyz:900/live/4160189881/DB4ACD54/400159786.m3u8
 
 
 
