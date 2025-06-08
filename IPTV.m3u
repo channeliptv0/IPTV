@@ -627,7 +627,8 @@ https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist
 https://sflex07.fun:443/07/jio/app/ts_live_482.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Hindi Movies", Colors Cineplex HD
-https://sflex07.fun:443/07/jio/app/ts_live_1477.m3u
+#https://sflex07.fun:443/07/jio/app/ts_live_1477.m3u
+http://38.76.152.22:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Hindi Movies", Colors Cineplex Superhit
 https://sflex07.fun:443/07/jio/app/ts_live_1450.m3u8
@@ -959,8 +960,8 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/Sta
 
 #EXTINF:-1 tvg-logo="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Adventure",Discovery HD
 #https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/DiscoveryHD.m3u8
-#http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-https://sflex07.fun:443/07/jio/app/ts_live_575.m3u8
+http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#https://sflex07.fun:443/07/jio/app/ts_live_575.m3u8
 
 #EXTINF:-1 tvg-id="568" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Adventure", Discovery Science
 https://sflex07.fun:443/07/jio/app/ts_live_568.m3u8
@@ -976,15 +977,15 @@ https://wildearth-plex.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Animal%20Planet.png"group-title="Adventure",Animal Planet Hd
 #http://starshare.live/live/bana/bana/182.m3u8
 #https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/AnimalsPlanetHd.m3u8
-#http://udigitalott.ridsys.in/riptv/live/stream90/index.m3u8
-https://sflex07.fun:443/07/jio/app/ts_live_566.m3u8
+http://udigitalott.ridsys.in/riptv/live/stream90/index.m3u8
+#https://sflex07.fun:443/07/jio/app/ts_live_566.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Adventure",River Monstors
 https://amg00654-itv-amg00654c12-samsung-th-4582.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Hindi.png" group-title="Adventure", History TV18 HD Hindi
-https://sflex07.fun:443/07/jio/app/ts_live_578.m3u8
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/HistoryTVHD.m3u8
+#https://sflex07.fun:443/07/jio/app/ts_live_578.m3u8
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/HistoryTVHD.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Adventure", Real Wild
 https://amg00426-lds-amg00426c1-samsung-th-4628.playouts.now.amagi.tv/playlist.m3u8
@@ -1022,20 +1023,20 @@ https://sflex07.fun:443/07/jio/app/ts_live_562.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Hindi.png" group-title="Kids", Pogo Hindi
-https://sflex07.fun:443/07/jio/app/ts_live_559.m3u8
-#http://line.ultrab.xyz:80/live/ZeeALI1/465841/112864.m3u8
+#https://sflex07.fun:443/07/jio/app/ts_live_559.m3u8
+http://line.ultrab.xyz:80/live/ZeeALI1/465841/112864.m3u8
 
 #EXTINF:-1 tvg-id="815" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/sonic_Hindi.png" group-title="Kids", Sonic Hindi
-https://sflex07.fun:443/07/jio/app/ts_live_815.m3u8
-#http://extraott-iptv.com:88/live/0229477349/8104258135/400159784.m3u8
+#https://sflex07.fun:443/07/jio/app/ts_live_815.m3u8
+http://extraott-iptv.com:88/live/0229477349/8104258135/400159784.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Kids_2.png" group-title="Kids", Discovery Kids Hindi
-https://sflex07.fun:443/07/jio/app/ts_live_554.m3u8
-#http://38.96.178.201/live/DisneyXD/index.m3u8
+#https://sflex07.fun:443/07/jio/app/ts_live_554.m3u8
+http://38.96.178.201/live/DisneyXD/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Hindi.png" group-title="Kids", Nick Hindi
-https://sflex07.fun:443/07/jio/app/ts_live_545.m3u8
-#http://cool365.xyz:900/live/4160189881/DB4ACD54/400159786.m3u8
+#https://sflex07.fun:443/07/jio/app/ts_live_545.m3u8
+http://cool365.xyz:900/live/4160189881/DB4ACD54/400159786.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network Hindi
 https://sflex07.fun:443/07/jio/app/ts_live_816.m3u8
