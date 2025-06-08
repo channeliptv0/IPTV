@@ -283,7 +283,11 @@ https://smart.bengaldigital.live/star-sports-2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sport 2 Hindi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",STAR SPORTS 2 HINDI HD
 #https://live.drmlive-02.workers.dev/jc/122.m3u8
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarSports2Hindi.m3u8
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarSports2Hindi.m3u8
+https://sflex07.fun:443/07/jio/app/ts_live_1984.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="Sports", Star Sports 2
+https://sflex07.fun:443/07/jio/app/ts_live_1985.m3u8
 
 #EXTINF:-1 tvg-id="starsports3.in" tvg-name="Star Sports 3" tvg-logo="" group-title="Sports",Star Sports 3
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/starsports3.m3u8
