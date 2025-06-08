@@ -292,7 +292,7 @@ https://sflex07.fun:443/07/jio/app/ts_live_1985.m3u8
 #EXTINF:-1 tvg-id="starsports3.in" tvg-name="Star Sports 3" tvg-logo="" group-title="Sports",Star Sports 3
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/starsports3.m3u8
 
-#EXTINF:-1 tvg-id="1998" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Jio TV Sports", Sports18 Khel
+#EXTINF:-1 tvg-id="1998" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_Khel.png" group-title="Sports", Sports18 Khel
 https://sflex07.fun:443/07/jio/app/ts_live_1998.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="Sports",Star Sports Select 1 HD
@@ -395,8 +395,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #https://rex-streaming.vercel.app/api/BDIX/167585.m3u8|user-agent=@xfireflix
 https://sflex07.fun:443/07/jio/app/ts_live_875.m3u8
 
-#EXTINF:-1 tvg-id="1294" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="Jio TV Sports", Eurosport
+#EXTINF:-1 tvg-id="1294" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="Sports", Eurosport
 https://sflex07.fun:443/07/jio/app/ts_live_1294.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", Ten Sports HD
+#https://rex-streaming.vercel.app/api/x/167569.m3u8
+https://rex-streaming.vercel.app/api/BDIX/167569.m3u8|user-agent=@xfireflix
 
 
 
