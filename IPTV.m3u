@@ -461,6 +461,8 @@ https://akdnetwork.co.in/live/cnnew/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/samay-kolkata.png" group-title="Bangla",Samay Kolkata
 https://server.playontv.in/SAMAYKOLKATA/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png" group-title="Bangla", Kolkata TV
+https://sflex07.fun:443/07/jio/app/ts_live_1264.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Sangeet Bangla
 #https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/sangeetbangla.m3u8
