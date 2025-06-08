@@ -484,7 +484,8 @@ https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
 #https://drmlive.in/voot/756.m3u8
 #https://live.drmlive-02.workers.dev/jc/756.m3u8
 #https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/ColorsBanglaHd.m3u8
-http://38.96.178.201/live/ColorsBangla/index.m3u8
+https://sflex07.fun:443/07/jio/app/ts_live_1369.m3u8
+#http://38.96.178.201/live/ColorsBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES HD
 #http://starshare.live/live/bana/bana/425.m3u8
@@ -493,14 +494,15 @@ http://38.96.178.201/live/ColorsBangla/index.m3u8
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/JalshaMoviesHd.m3u8
 
 
-#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES HD
+#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES SD
 http://38.96.178.201/live/JalshaMovies/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebanglacinema/list/270x152/1170x658withlogo37ae3406ee15436ab22f702a95eedaa7.png" group-title="Bangla",Zee Bangla Cinema
 https://live.drmlive-02.workers.dev/zee/0-9-zeebanglacinema.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Colours Bangla Cinema
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/ColoursBnaglaCinema.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Bangla",Colours Bangla Cinema
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/ColoursBnaglaCinema.m3u8
+https://sflex07.fun:443/07/jio/app/ts_live_1657.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Bangla",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
