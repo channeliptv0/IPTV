@@ -456,6 +456,7 @@ https://server.playontv.in/SAMAYKOLKATA/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Sangeet Bangla
 #https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/sangeetbangla.m3u8
+#https://sflex07.fun:443/07/jio/app/ts_live_740.m3u8
 http://38.96.178.201/live/SangeetBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Rupasi Bangla
@@ -495,7 +496,7 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/Jal
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES HD
 http://38.96.178.201/live/JalshaMovies/index.m3u8
 
-#EXTINF:-1 tvg-id="0-9-zeebanglacinema" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebanglacinema/list/270x152/1170x658withlogo37ae3406ee15436ab22f702a95eedaa7.png" group-title="",Zee Bangla Cinema
+#EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebanglacinema/list/270x152/1170x658withlogo37ae3406ee15436ab22f702a95eedaa7.png" group-title="Bangla",Zee Bangla Cinema
 https://live.drmlive-02.workers.dev/zee/0-9-zeebanglacinema.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Colours Bangla Cinema
@@ -707,12 +708,24 @@ https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.s
 #https://live.drmlive-02.workers.dev/jc/1145.m3u8
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/MTVHD.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Music_Station.png" group-title="Music", Desi Music Station
+https://sflex07.fun:443/07/jio/app/ts_live_2252.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Music" tvg-logo=" ", MTVHD
 #https://rex-streaming.vercel.app/api/x/109962.m3u8
 https://rex-streaming.vercel.app/api/BDIX/109962.m3u8|user-agent=@xfireflix
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_Beats_HD.png" group-title="Music", MTV Beats HD
+https://sflex07.fun:443/07/jio/app/ts_live_753.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Music.png" group-title="Music", Saregama Music
+https://sflex07.fun:443/07/jio/app/ts_live_2065.m3u8
+
 #EXTINF:-1 tvg-logo="" group-title="Music" tvg-logo=" ", Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/B4U_Music.png" group-title="Music", B4U Music
+https://sflex07.fun:443/07/jio/app/ts_live_183.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Music" tvg-logo=" ", MON TV
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
