@@ -998,10 +998,10 @@ https://amg00426-lds-amg00426c2-samsung-th-4625.playouts.now.amagi.tv/playlist.m
 #EXTINF:-1 tvg-logo="" group-title="Adventure", BBC Earth US
 https://amg00793-bbcstudios-amg00793c3-lg-us-2528.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbcearta-lgus/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Adventure", Wild Nature="Adventure", Wild Nature
+#EXTINF:-1 tvg-logo="" group-title="Adventure", Wild Nature
 https://wildearth-plex.amagi.tv/master.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="Adventure", Wild Nature="Adventure", CTV Nature
+#EXTINF:-1 tvg-logo="" group-title="Adventure", CTV Nature
 http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ID.png" group-title="Adventure", Investigation Discovery
@@ -1042,11 +1042,15 @@ http://38.96.178.201/live/DisneyXD/index.m3u8
 #https://sflex07.fun:443/07/jio/app/ts_live_545.m3u8
 http://cool365.xyz:900/live/4160189881/DB4ACD54/400159786.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network Hindi
-https://sflex07.fun:443/07/jio/app/ts_live_816.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Hindi.png" group-title="Kids", Cartoon Network
+#https://sflex07.fun:443/07/jio/app/ts_live_816.m3u8
+https://tvsen5.aynaott.com/cartoonnetwork/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Hindi.png" group-title="Kids", Sony Yay Hindi
 https://sflex07.fun:443/07/jio/app/ts_live_872.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Kids", Disney Channel Hindi
+https://rex-streaming.vercel.app/api/BDIX/167551.m3u8|user-agent=@xfireflix
 
 
 
