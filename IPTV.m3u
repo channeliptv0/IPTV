@@ -401,7 +401,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://sflex07.fun:443/07/jio/app/ts_live_875.m3u8
 
 #EXTINF:-1 tvg-id="1294" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="Sports", Eurosport
-https://sflex07.fun:443/07/jio/app/ts_live_1294.m3u8
+#https://sflex07.fun:443/07/jio/app/ts_live_1294.m3u8
+http://xott.live:8080/shams1234/shams1234/167585
 
 #EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", Ten Sports HD
 #https://rex-streaming.vercel.app/api/x/167569.m3u8
@@ -974,15 +975,17 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/Sta
 
 #EXTINF:-1 tvg-logo="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Adventure",Discovery HD
 #https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/DiscoveryHD.m3u8
-http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
+#http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 #https://sflex07.fun:443/07/jio/app/ts_live_575.m3u8
+http://xott.live:8080/shams1234/shams1234/206287
 
 #EXTINF:-1 tvg-id="568" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Adventure", Discovery Science
 #https://sflex07.fun:443/07/jio/app/ts_live_568.m3u8
 http://xott.live:8080/shams1234/shams1234/206289
 
 #EXTINF:-1 tvg-logo="" group-title="Adventure",National Geography HD
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/NationalGeographyHD.m3u8
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/NationalGeographyHD.m3u8
+http://xott.live:8080/shams1234/shams1234/206285
 
 
 #EXTINF:-1 tvg-logo="" group-title="Adventure",NetGeo Wild HD
