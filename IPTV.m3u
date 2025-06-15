@@ -367,22 +367,15 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/F
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Sports",ASTRO CRICKET HD
 #http://starshare.live/live/bana/bana/2494.m3u8
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/AstroCricketHd.m3u8
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-#https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_primary.mpd
-#https://astro-gbj7.vercel.app/2504/default_ott.mpd?|drmScheme=clearkey&drmLicense=03c2e0af2f8159f9f0ce9b5dbc865f10:cd84ed136b0cc71f8ab8cd4d4f6a2e4c
-#https://sg-cors.onrender.com/https://linearjitp-playback.astro.com.my/dash-wv/linear/2504/default_ott.mpd
+#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/AstroCricketHd.m3u8
+http://xott.live:8080/shams1234/shams1234/167581
 
 #EXTINF:-1 tvg-id="cric" tvg-name="WILLOW CRICKET HD" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="Sports",WILLOW CRICKET HD
-#https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/vodez4h7i9/out/v1/e929aee089864ce98e4c335d19f41e16/cenc-sd.mpd?|drmScheme=clearkey&drmLicense=7ec6d225c1d219152933378e75e1c466:304eec31418fb552a0b57fdac515d101
-#http://starshare.live/live/bana/bana/215.m3u8
-#https://github.com/rahul979854/Channels/raw/main/WillowCricketHd.m3u8
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/WillowCricketHd.m3u8
+http://xott.live:8080/shams1234/shams1234/167583
 
 #EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", Willow 2 HD
 #https://rex-streaming.vercel.app/api/x/167582.m3u8
+#http://xott.live:8080/shams1234/shams1234/167582
 https://rex-streaming.vercel.app/api/BDIX/167582.m3u8|user-agent=@xfireflix
 
 #EXTINF:-1 tvg-id="DistroTVUS_79275" tvg-logo="https://a.jsrdn.com/hls/23038/bein-sports-xtra/logo_20231219_184505_68.png" group-title="Sports",beIN SPORTS Xtra
