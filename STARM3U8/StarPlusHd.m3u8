@@ -4,8 +4,11 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:0
 #EXTINF:3.700,
+http://38.96.178.201/live/StarPlus/index.m3u8
+#EXTINF:3.700,
+http://38.96.178.201/live/StarPlus/index.m3u8
+#EXTINF:3.700,
+http://38.96.178.201/live/StarPlus/index.m3u8
+#EXTINF:3.700,
 http://gotit14.xyz:80/live/2F635BX/ZJX02CY/1019855_0.ts
-#EXTINF:3.700,
-http://gotit14.xyz:80/live/2F635BX/ZJX02CY/1019855_1.ts
-#EXTINF:3.700,
-http://gotit14.xyz:80/live/2F635BX/ZJX02CY/1019855_2.ts
+
