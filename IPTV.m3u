@@ -500,14 +500,15 @@ https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
 #https://drmlive.in/voot/756.m3u8
 #https://live.drmlive-02.workers.dev/jc/756.m3u8
 #https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/ColorsBanglaHd.m3u8
-https://sflex07.fun:443/07/jio/app/ts_live_1369.m3u8
-#http://38.96.178.201/live/ColorsBangla/index.m3u8
+#https://sflex07.fun:443/07/jio/app/ts_live_1369.m3u8
+http://38.96.178.201/live/ColorsBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES HD
 #http://starshare.live/live/bana/bana/425.m3u8
 #https://starshare.live/live/bana/bana/98884.m3u8
 #https://starshare.live:443/live/bana/bana/425.m3u8
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/JalshaMoviesHd.m3u8
+http://38.96.178.201/live/JalshaMovies/index.m3u8
 
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES SD
