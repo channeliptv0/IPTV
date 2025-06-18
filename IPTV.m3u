@@ -551,6 +551,9 @@ http://xott.live:8080/shams1234/shams1234/221258
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies", Star Gold 2
 http://xott.live:8080/shams1234/shams1234/106133
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies", Star Gold Romance
+http://xott.live:8080/shams1234/shams1234/66186
+
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpjuiCtPy318T8ckhoNIm92rXvIY9D9e0QO4NH_ljmBfukyCqJ4ueUhcZ&s=10" group-title="Hindi Movies",Star GOLD Hd
 #http://starshare.live/live/bana/bana/98858.m3u8
 #https://starshare.live/live/bana/bana/9375.m3u8
@@ -707,7 +710,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23199&ads.content_duration=18000&ads.episode_id=56052&ads.show_id=1744&ads.showCategories=IAB1&ads.episodeCategories=IAB1&ads.genre=Music%2CBollywood%2CMusic%20Video%2CAsian&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=hi&ads.showtitle=Mastiii%20-%20India%27s%20No.1%20Music%20and%20Youth%20Channel&ads.episodetitle=Mastiii%20-%20India%27s%20No.1%20Music%20and%20Youth%20Channel&ads.keywords=mastiii%2Chindi%2Cdesi&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=dtv&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Music India
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/MusicIndia.m3u8
+http://xott.live:8080/shams1234/shams1234/190028
 
 #EXTINF:-1 tvg-id="9XTashan.in" tvg-logo="https://i.imgur.com/MMR1RMF.png" group-title="Music",9X Tashan
 https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg01281-9xmediapvtltd-9xtashan-samsungin/playlist.m3u8
@@ -734,17 +737,14 @@ https://sflex07.fun:443/07/jio/app/ts_live_742.m3u8
 https://live-e24.dailyhunt.in/eternowsa/live/amlst:E24_,b256,b512,b1024,b1824,.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="mtvhdplus" tvg-name="MTV HD Plus" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV_HD_Plus.png" group-title="Music",MTV HD Plus
-#https://starshare.live/live/bana/bana/23791.m3u8
-#https://live.drmlive-02.workers.dev/jc/1145.m3u8
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/MTVHD.m3u8
-https://sflex07.fun:443/07/jio/app/ts_live_1145.m3u8
+http://xott.live:8080/shams1234/shams1234/206049
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Desi_Music_Station.png" group-title="Music", Desi Music Station
 https://sflex07.fun:443/07/jio/app/ts_live_2252.m3u8
 
 #EXTINF:-1 tvg-logo="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/MTV.png" group-title="Music", MTVHD
 #https://rex-streaming.vercel.app/api/x/109962.m3u8
-https://sflex07.fun:443/07/jio/app/ts_live_248.m3u8
+http://xott.live:8080/shams1234/shams1234/206054
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Saregama_Music.png" group-title="Music", Saregama Music
 https://sflex07.fun:443/07/jio/app/ts_live_2065.m3u8
@@ -756,7 +756,7 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Sangeet Bangla
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/sangeetbangla.m3u8
+http://xott.live:8080/shams1234/shams1234/245933
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Dhoom Music
 http://38.96.178.201/live/Dhoom/index.m3u8
