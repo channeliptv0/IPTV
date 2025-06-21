@@ -489,11 +489,8 @@ https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
 http://38.96.178.201/live/ColorsBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES HD
-#http://starshare.live/live/bana/bana/425.m3u8
-#https://starshare.live/live/bana/bana/98884.m3u8
-#https://starshare.live:443/live/bana/bana/425.m3u8
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/JalshaMoviesHd.m3u8
-http://xott.live:8080/shams1234/shams1234/245900
+https://rex-streaming.vercel.app/api/BDIX/245900.m3u8|user-agent=@xfireflix
+#http://xott.live:8080/shams1234/shams1234/245900
 
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES SD
@@ -532,7 +529,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/AkashAath.m3u8
 
 #EXTINF:-1 tvg-id="1669" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Bangla", Sun Bangla
-https://sflex07.fun:443/07/jio/app/ts_live_1669.m3u8
+https://rex-streaming.vercel.app/api/BDIX/245906.m3u8|user-agent=@xfireflix
 
 
 
@@ -902,7 +899,8 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/master.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_PlusHD.png"group-title="Entertainment",Star plus
+http://38.96.178.201/live/StarPlus/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_PlusHD.png"group-title="Entertainment",Star plus HD
 #https://starshare.live/live/bana/bana/221.m3u8
