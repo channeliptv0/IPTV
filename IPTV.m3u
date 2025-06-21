@@ -260,15 +260,12 @@ https://live.drmlive-02.workers.dev/zee/0-9-9z5398791.m3u8
 http://xott.live:8080/shams1234/shams1234/167588
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 Hd " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports",STAR SPORTS 1 Hd
-#http://starshare.live/live/bana/bana/9397.m3u8
-#http://starshare.live/live/bana/bana/124281.m3u8
-#https://starshare.live/live/bana/bana/148.m3u8
-#https://github.com/rahul979854/Channels/raw/main/StarSport1Hd.m3u8
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarSports1Hd.m3u8
-https://smart.bengaldigital.live/star-sports-1/index.m3u8
+https://rex-streaming.vercel.app/api/BDIX/109987.m3u8|user-agent=@xfireflix
+#https://smart.bengaldigital.live/star-sports-1/index.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI HD "tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png" group-title="Sports",Star Sports 1 HINDI HD
-http://xott.live:8080/shams1234/shams1234/167573
+https://rex-streaming.vercel.app/api/BDIX/109986.m3u8|user-agent=@xfireflix
+#http://xott.live:8080/shams1234/shams1234/167573
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 Tamil HD "tvg-logo="" group-title="Sports",Star Sports 1 Tamil HD
 #http://starshare.live/live/bana/bana/9399.m3u8
@@ -281,10 +278,8 @@ http://ptu.ridsys.in/riptv/live/stream20/index.m3u8
 https://smart.bengaldigital.live/star-sports-2/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sport 2 Hindi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",STAR SPORTS 2 HINDI HD
-#https://live.drmlive-02.workers.dev/jc/122.m3u8
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarSports2Hindi.m3u8
-#https://sflex07.fun:443/07/jio/app/ts_live_1984.m3u8
-http://xott.live:8080/shams1234/shams1234/167574
+https://rex-streaming.vercel.app/api/BDIX/109988.m3u8|user-agent=@xfireflix
+#http://xott.live:8080/shams1234/shams1234/167574
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="Sports", Star Sports 2
 #https://sflex07.fun:443/07/jio/app/ts_live_1985.m3u8
@@ -306,8 +301,9 @@ https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
 #https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/SONYM3U8/SonySportsTen1.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-HD-New-Logo.png" tvg-chno="14" group-title="Sports",Sony sports ten 1 HD 
-https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/SONYM3U8/SonySportsTen1HD.m3u8
+#https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+https://rex-streaming.vercel.app/api/BDIX/109983.m3u8|user-agent=@xfireflix
+
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png" tvg-chno="17" group-title="Sports",Sony sports ten 2 
 https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
