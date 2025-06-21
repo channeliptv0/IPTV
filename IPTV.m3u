@@ -528,7 +528,8 @@ https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestrea
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla", Aakash Aath
-http://38.96.178.201/live/AkashAath/index.m3u8
+#http://38.96.178.201/live/AkashAath/index.m3u8
+https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/AkashAath.m3u8
 
 #EXTINF:-1 tvg-id="1669" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Bangla", Sun Bangla
 https://sflex07.fun:443/07/jio/app/ts_live_1669.m3u8
