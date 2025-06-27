@@ -205,7 +205,8 @@ https://live.drmlive-02.workers.dev/zee/0-9-zeecinemalu.m3u8
 #EXTINF:-1 tvg-id="0-9-zeetalkies" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeetalkies/list/270x152/1170x658483062857.png" group-title="Zee",Zee Talkies HD
 https://live.drmlive-02.workers.dev/zee/0-9-zeetalkies.m3u8
 #EXTINF:-1 tvg-id="0-9-zeebanglacinema" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebanglacinema/list/270x152/1170x658withlogo37ae3406ee15436ab22f702a95eedaa7.png" group-title="Zee",Zee Bangla Cinema
-https://live.drmlive-02.workers.dev/zee/0-9-zeebanglacinema.m3u8
+#https://live.drmlive-02.workers.dev/zee/0-9-zeebanglacinema.m3u8
+https://rex-streaming.vercel.app/api/BDIX/245893.m3u8|user-agent=@xfireflix
 #EXTINF:-1 tvg-id="0-9-215" tvg-logo="https://akamaividz.zee5.com/resources/0-9-215/list/270x152/1170x658withlogoce2ca382ce0d467190d9a3e9cb6af78d.png" group-title="Zee",Zee Punjabi
 https://live.drmlive-02.workers.dev/zee/0-9-215.m3u8
 #EXTINF:-1 tvg-id="0-9-zeesalaam" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeesalaam/list/270x152/zeesalam1170x658withlogoa14b7257bbf049f1aae21e7671567ae2.png" group-title="Zee",Zee Salaam
@@ -474,7 +475,8 @@ http://38.96.178.201/live/STARJALSHA/index.m3u8
 #https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
 #https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
 #https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/ZeeBanglaHd.m3u8
-https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
+#https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
+https://rex-streaming.vercel.app/api/BDIX/245893.m3u8|user-agent=@xfireflix
 
 #EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="IN: Colors_Bengali_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRArZlqFdhSz0lVGy8XxdT4ca2edA4mqtLhkg&usqp=CAU" group-title="Bangla",Colors Bangla Hd
 #https://starshare.live/live/bana/bana/183.m3u8
@@ -485,15 +487,16 @@ https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
 http://38.96.178.201/live/ColorsBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES HD
-https://rex-streaming.vercel.app/api/BDIX/245900.m3u8|user-agent=@xfireflix
 #http://xott.live:8080/shams1234/shams1234/245900
-
+https://rex-streaming.vercel.app/api/BDIX/245900.m3u8|user-agent=@xfireflix
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES SD
 http://38.96.178.201/live/JalshaMovies/index.m3u8
 
+
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebanglacinema/list/270x152/1170x658withlogo37ae3406ee15436ab22f702a95eedaa7.png" group-title="Bangla",Zee Bangla Cinema
-https://live.drmlive-02.workers.dev/zee/0-9-zeebanglacinema.m3u8
+#https://live.drmlive-02.workers.dev/zee/0-9-zeebanglacinema.m3u8
+https://rex-streaming.vercel.app/api/BDIX/245897.m3u8|user-agent=@xfireflix
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Bangla",Colours Bangla Cinema
 #https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/ColoursBnaglaCinema.m3u8
@@ -961,7 +964,8 @@ http://xott.live:8080/shams1234/shams1234/206289
 
 #EXTINF:-1 tvg-logo="" group-title="Adventure",National Geography HD
 #https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/NationalGeographyHD.m3u8
-http://xott.live:8080/shams1234/shams1234/206285
+#http://xott.live:8080/shams1234/shams1234/206285
+https://rex-streaming.vercel.app/api/BDIX/245967.m3u8|user-agent=@xfireflix
 
 
 #EXTINF:-1 tvg-logo="" group-title="Adventure",NetGeo Wild HD
