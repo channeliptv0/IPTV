@@ -539,7 +539,7 @@ https://rex-streaming.vercel.app/api/BDIX/109960.m3u8|user-agent=@xfireflixbd
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD Romance
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3709.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",STAR GOLD THRILLS
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",STAR GOLD THRILLS
 http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
 
 #EXTINF:-1 tvg-id="zee" tvg-name="IN: &xplor(FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OhtB9XC-V_tzHHV2WYmGG1bT7VJLeiUczBbSADwMyfwQBkTEEV03Tg2S&s=10" group-title="Hindi Movies",&xplor Hd
