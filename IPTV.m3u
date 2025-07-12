@@ -525,8 +525,9 @@ https://rex-streaming.vercel.app/api/BDIX/245906.m3u8|user-agent=@xfireflixbd
 
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpjuiCtPy318T8ckhoNIm92rXvIY9D9e0QO4NH_ljmBfukyCqJ4ueUhcZ&s=10" group-title="Hindi Movies",Star GOLD Hd
-https://rex-streaming.vercel.app/api/BDIX/109959.m3u8|user-agent=@xfireflixbd
+#https://rex-streaming.vercel.app/api/BDIX/109959.m3u8|user-agent=@xfireflixbd
 #http://38.96.178.201/live/StarGold/index.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD 2 Hd
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12470.ts
