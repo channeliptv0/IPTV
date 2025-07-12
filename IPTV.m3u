@@ -255,6 +255,7 @@ https://live.drmlive-02.workers.dev/zee/0-9-9z5398791.m3u8
 
 
 
+
 #EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD SPORTS" tvg-logo="https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/Logo/dd-sports.png" group-title="Sports",DD SPORTS
 #https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/ddsports.m3u8
 #https://sflex07.fun:443/07/jio/app/ts_live_204.m3u8
@@ -462,33 +463,22 @@ http://38.96.178.201/live/SangeetBangla/index.m3u8
 http://38.96.178.201/live/RuposhiBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD: Star Jalsha (FHD)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="Bangla",Star Jalsha HD
-#http://starshare.live/live/bana/bana/8540.m3u8
-#https://starshare.live/live/bana/bana/98883.m3u8
-#https://starshare.live/live/bana/bana/198.m3u8
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarJalshaHd.m3u8
-http://38.96.178.201/live/STARJALSHA/index.m3u8
+#http://38.96.178.201/live/STARJALSHA/index.m3u8
+https://rex-streaming.vercel.app/api/BDIX/245898.m3u8|user-agent=@xfireflixbd
 
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSynRSj31bPElV0r-SBliTR5hSUcIzXV5AY5g&usqp=CAU" group-title="Bangla",ZEE Bangla HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#https://la.drmlive.au/tp/zee-zeebangla.m3u8
-#https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebangla/default/manifest.mpd?|drmScheme=clearkey&drmLicense=1df83e058b864da896c9288eef63b113:fc32f26239054b56aab48225305598fe
-#https://live.drmlive-02.workers.dev/zee/zeebangla.m3u8
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/ZeeBanglaHd.m3u8
 #https://live.drmlive-02.workers.dev/zee/0-9-zeebangla.m3u8
-https://rex-streaming.vercel.app/api/BDIX/245893.m3u8|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/245893.m3u8|user-agent=@xfireflixbd
 
 #EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="IN: Colors_Bengali_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRArZlqFdhSz0lVGy8XxdT4ca2edA4mqtLhkg&usqp=CAU" group-title="Bangla",Colors Bangla Hd
-#https://starshare.live/live/bana/bana/183.m3u8
-#https://drmlive.in/voot/756.m3u8
-#https://live.drmlive-02.workers.dev/jc/756.m3u8
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/ColorsBanglaHd.m3u8
-#https://sflex07.fun:443/07/jio/app/ts_live_1369.m3u8
-http://38.96.178.201/live/ColorsBangla/index.m3u8
+https://rex-streaming.vercel.app/api/BDIX/245895.m3u8|user-agent=@xfireflixbd
+#http://38.96.178.201/live/ColorsBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES HD
 #http://xott.live:8080/shams1234/shams1234/245900
-https://rex-streaming.vercel.app/api/BDIX/245900.m3u8|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/245900.m3u8|user-agent=@xfireflixbd
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES SD
 http://38.96.178.201/live/JalshaMovies/index.m3u8
@@ -528,8 +518,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/AkashAath.m3u8
 
 #EXTINF:-1 tvg-id="1669" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Bangla", Sun Bangla
-https://rex-streaming.vercel.app/api/BDIX/245906.m3u8|user-agent=@xfireflix
-
+https://rex-streaming.vercel.app/api/BDIX/245906.m3u8|user-agent=@xfireflixbd
 
 
 
@@ -953,19 +942,13 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/Sta
 
 
 #EXTINF:-1 tvg-logo="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Hindi.png" group-title="Adventure",Discovery HD
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/DiscoveryHD.m3u8
-#http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
-#https://sflex07.fun:443/07/jio/app/ts_live_575.m3u8
 http://xott.live:8080/shams1234/shams1234/206287
 
 #EXTINF:-1 tvg-id="568" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Science.png" group-title="Adventure", Discovery Science
-#https://sflex07.fun:443/07/jio/app/ts_live_568.m3u8
 http://xott.live:8080/shams1234/shams1234/206289
 
 #EXTINF:-1 tvg-logo="" group-title="Adventure",National Geography HD
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/NationalGeographyHD.m3u8
-#http://xott.live:8080/shams1234/shams1234/206285
-https://rex-streaming.vercel.app/api/BDIX/245967.m3u8|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/245967.m3u8|user-agent=@xfireflixbd
 
 
 #EXTINF:-1 tvg-logo="" group-title="Adventure",NetGeo Wild HD
