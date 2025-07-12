@@ -301,7 +301,7 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/12475.ts
 https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-HD-New-Logo.png" tvg-chno="14" group-title="Sports",Sony sports ten 1 HD 
-#https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png" tvg-chno="17" group-title="Sports",Sony sports ten 2 
 https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
@@ -367,7 +367,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23038&ads.content_duration=18000&ads.episode_id=79276&ads.show_id=3126&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CSports%20Radio%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=beIN%20SPORTS%20Xtra%20en%20Espan%CC%83ol&ads.episodetitle=beIN%20SPORTS%20Xtra%20en%20Espan%CC%83ol&ads.keywords=beIN%20Sports%2CSports%2CbeIN%2CEspanol%2CSpanish&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=bein-xtra-es&ads.islive=1&ads.streamtype=live&ads.vf=20241020
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Sports", Eurosport HD
-http://xott.live:8080/shams1234/shams1234/206324
+http://nayatv.ydns.eu:80/xfireflix/flixfire/11683.ts
 
 #EXTINF:-1 tvg-id="1294" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="Sports", Eurosport
 #https://sflex07.fun:443/07/jio/app/ts_live_1294.m3u8
@@ -533,6 +533,13 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/12470.ts
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD Select Hd
 https://rex-streaming.vercel.app/api/BDIX/109960.m3u8|user-agent=@xfireflixbd
+
+
+#EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD Romance
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3709.ts
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",STAR GOLD THRILLS
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
 
 #EXTINF:-1 tvg-id="zee" tvg-name="IN: &xplor(FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OhtB9XC-V_tzHHV2WYmGG1bT7VJLeiUczBbSADwMyfwQBkTEEV03Tg2S&s=10" group-title="Hindi Movies",&xplor Hd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
