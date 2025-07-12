@@ -474,7 +474,7 @@ http://38.96.178.201/live/JalshaMovies/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebanglacinema/list/270x152/1170x658withlogo37ae3406ee15436ab22f702a95eedaa7.png" group-title="Bangla",Zee Bangla Cinema
 #https://live.drmlive-02.workers.dev/zee/0-9-zeebanglacinema.m3u8
-https://rex-streaming.vercel.app/api/BDIX/245897.m3u8|user-agent=@xfireflix
+https://rex-streaming.vercel.app/api/BDIX/245897.m3u8|user-agent=@xfireflixbd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Bangla",Colours Bangla Cinema
 #https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/ColoursBnaglaCinema.m3u8
