@@ -1093,9 +1093,15 @@ http://103.120.172.74:5500
 http://103.120.172.74:4600
 
 #EXTINF:-1 tvg-logo="" group-title="DishTV Smart", Star Sports 2
-http://103.120.172.74:4700
-http://103.120.172.74:4800
 http://103.120.172.74:4200
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", Star Sports Select 2
+http://103.120.172.74:4700
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", Sony Sports 2
+http://103.120.172.74:4800
+
+
 
 
 
