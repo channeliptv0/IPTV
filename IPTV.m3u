@@ -1038,6 +1038,85 @@ https://rex-streaming.vercel.app/api/BDIX/167551.m3u8|user-agent=@xfireflixbd
 
 
 
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", Zee India
+http://103.120.172.74:1040
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", Star India
+http://103.120.172.74:1060
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", Colors
+http://103.120.172.74:1070
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", Sony SAB
+http://103.120.172.74:1080
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", India News
+http://103.120.172.74:1090
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", Star Plus
+http://103.120.172.74:1120
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", Zee TV
+http://103.120.172.74:1140
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", Sony Max
+http://103.120.172.74:1150
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", DD News
+http://103.120.172.74:1170
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", Zee TV
+http://103.120.172.74:4000
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", Zee Cinema
+http://103.120.172.74:4100
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", Star Plus
+http://103.120.172.74:4300
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", MTV
+http://103.120.172.74:4400
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", Star Gold
+http://103.120.172.74:5000
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", Sony
+http://103.120.172.74:5100
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", Star India
+http://103.120.172.74:5200
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", NDTV
+http://103.120.172.74:5500
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", Star Sports 1
+http://103.120.172.74:4600
+
+#EXTINF:-1 tvg-logo="" group-title="DishTV Smart", Star Sports 2
+http://103.120.172.74:4700
+http://103.120.172.74:4800
+http://103.120.172.74:4200
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
