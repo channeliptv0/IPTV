@@ -191,9 +191,7 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/11677.ts
 #https://rex-streaming.vercel.app/api/BDIX/109988.m3u8|user-agent=@xfireflixbd
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12473.ts
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sports18_1_SD.png" group-title="Sports", Star Sports 2
-#https://sflex07.fun:443/07/jio/app/ts_live_1985.m3u8
-http://xott.live:8080/shams1234/shams1234/167574
+
 
 #EXTINF:-1 tvg-id="starsports3.in" tvg-name="Star Sports 3" tvg-logo="" group-title="Sports",Star Sports 3
 http://nayatv.ydns.eu:80/xfireflix/flixfire/11682.ts
@@ -283,7 +281,8 @@ http://xott.live:8080/shams1234/shams1234/167585
 #EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", Ten Sports HD
 #https://rex-streaming.vercel.app/api/x/167569.m3u8
 #http://nayatv.ydns.eu:80/xfireflix/flixfire/12330.ts
-https://rex-streaming.vercel.app/api/BDIX/167569.m3u8|user-agent=@xfireflixbd
+http://nayatv.ydns.eu:80/xfireflix/flixfire/6445.ts
+#https://rex-streaming.vercel.app/api/BDIX/167569.m3u8|user-agent=@xfireflixbd
 
 
 #EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", Ten Cricket
