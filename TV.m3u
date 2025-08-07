@@ -234,10 +234,10 @@ https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L1XzAytScLX1kNIcd5Fg8cPPW5ASZAA17l2eoZj59Df2D3rk9PcyuDOm&s=10" group-title="Sports",Sky Sports Cricket
 #http://starshare.live/live/bana/bana/124269.m3u8
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/SkySportsCricketHd.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12558.ts
 
-#EXTINF:-1 tvg-id="skysportsplus.uk" tvg-name="Sky Sports Plus" group-title="Sports",Sky Sports Plus
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/SkySportsPlus.m3u8
+#EXTINF:-1 tvg-id="skysportsplus.uk" tvg-name="Sky Sports Plus" group-title="Sports",Sky Sports Premier
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12149.ts
 
 #EXTINF:-1 tvg-id="skysportsplus.uk" tvg-name="Sky Sports Plus" group-title="Sports",Sky Sports Football
 #https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/SkySportsFootball.m3u8
@@ -258,7 +258,7 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/F
 http://xott.live:8080/shams1234/shams1234/167581
 
 #EXTINF:-1 tvg-id="cric" tvg-name="WILLOW CRICKET HD" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="Sports",WILLOW CRICKET HD
-http://xott.live:8080/shams1234/shams1234/167583
+http://filex.me:8080/live/1234567890/1234567890/451415.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", Willow 2 HD
 #https://rex-streaming.vercel.app/api/x/167582.m3u8
@@ -273,10 +273,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Sports", Eurosport HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/11683.ts
-
-#EXTINF:-1 tvg-id="1294" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports.png" group-title="Sports", Eurosport
-#https://sflex07.fun:443/07/jio/app/ts_live_1294.m3u8
-http://xott.live:8080/shams1234/shams1234/167585
 
 #EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", Ten Sports HD
 #https://rex-streaming.vercel.app/api/x/167569.m3u8
