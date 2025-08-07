@@ -855,23 +855,18 @@ https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",B4U Kadak
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex.png" group-title="Hindi Movies", Colors Cineplex
-#https://sflex07.fun:443/07/jio/app/ts_live_482.m3u8
-http://xott.live:8080/shams1234/shams1234/104191
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Hindi Movies", Colors Cineplex HD
-#https://sflex07.fun:443/07/jio/app/ts_live_1477.m3u
-#http://38.76.152.22:8000/play/a06z/index.m3u8
-http://xott.live:8080/shams1234/shams1234/206310
+http://tv.bdiptv.store:80/live/restreauu/refstream/239.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Hindi Movies", Colors Cineplex Superhit
 #https://sflex07.fun:443/07/jio/app/ts_live_1450.m3u8
 http://38.76.152.22:8000/play/a06z/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Hindi Movies", Colors Cineplex Bollywood
-#https://sflex07.fun:443/07/jio/app/ts_live_1763.m3u8
-http://xott.live:8080/shams1234/shams1234/112983
+http://tv.bdiptv.store:80/live/restreauu/refstream/237.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png" group-title="Hindi Movies", Colors Infinity HD
+http://tv.bdiptv.store:80/live/restreauu/refstream/15315.m3u8
 
 
 
