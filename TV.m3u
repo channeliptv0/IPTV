@@ -434,7 +434,8 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12470.ts
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD Select Hd
-https://rex-streaming.vercel.app/api/BDIX/109960.m3u8|user-agent=@xfireflixbd
+#https://rex-streaming.vercel.app/api/BDIX/109960.m3u8|user-agent=@xfireflixbd
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3710.ts
 
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD Romance
@@ -445,12 +446,12 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
 
 #EXTINF:-1 tvg-id="zee" tvg-name="IN: &xplor(FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OhtB9XC-V_tzHHV2WYmGG1bT7VJLeiUczBbSADwMyfwQBkTEEV03Tg2S&s=10" group-title="Hindi Movies",&xplor Hd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/%26XplorHd.m3u8
-https://live.drmlive-02.workers.dev/zee/0-9-209.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12466.ts
+#https://live.drmlive-02.workers.dev/zee/0-9-209.m3u8
 
 #EXTINF:-1 tvg-id="andpicturehd.in" tvg-logo="" group-title="Hindi Movies",& Picture HD
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/andPictureHD.m3u8
-https://live.drmlive-02.workers.dev/zee/0-9-tvpictureshd.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3655.ts
+#https://live.drmlive-02.workers.dev/zee/0-9-tvpictureshd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="11" group-title="Hindi Movies",Sony Max HD 
 https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
@@ -469,14 +470,16 @@ https://live.drmlive-02.workers.dev/zee/0-9-zeecinema.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Zee Cinema HD
 #https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/ZeeCinemaHD.m3u8
-https://live.drmlive-02.workers.dev/zee/0-9-zeecinemahd.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/3727.ts
+#https://live.drmlive-02.workers.dev/zee/0-9-zeecinemahd.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/270x152/1170x658withlogo1a82943769da4b59aa160d90c9e3ebb9.png" group-title="",Zee Anmol Cinema
-https://live.drmlive-02.workers.dev/zee/0-9-zeeanmolcinema.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12341.ts
+#https://live.drmlive-02.workers.dev/zee/0-9-zeeanmolcinema.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeeaction" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeaction/list/270x152/1170x658withlogo2d9df480fb454003af3b291d3180f237.png" group-title="",Zee Action
-https://live.drmlive-02.workers.dev/zee/0-9-zeeaction.m3u8
+http://nayatv.ydns.eu:80/xfireflix/flixfire/12264.ts
+#https://live.drmlive-02.workers.dev/zee/0-9-zeeaction.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
