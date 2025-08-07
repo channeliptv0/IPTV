@@ -325,7 +325,8 @@ https://amg01106-tv9-amg01106c1-xiaomi-in-1073.playouts.now.amagi.tv/playlist/am
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",ABP Ananda
 #https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8
-https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
+#https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
+https://abplive.vgcdn.net/ptnr-yupptv/title-Ananda/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ed99a686-d5e1-42d8-ba3c-719c604586c8/master.m3u8?hdnts=st%3D1752285033~exp%3D1752306633~acl%3D%21%2A%2Fptnr-yupptv%2Fti
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",News 18 Bangla
 https://amg00866-amg00866c8-xiaomi-in-3555.playouts.now.amagi.tv/playlist.m3u8
@@ -349,13 +350,10 @@ https://server.playontv.in/SAMAYKOLKATA/index.m3u8
 https://sflex07.fun:443/07/jio/app/ts_live_1264.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Sangeet Bangla
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/sangeetbangla.m3u8
-#https://sflex07.fun:443/07/jio/app/ts_live_740.m3u8
-http://38.96.178.201/live/SangeetBangla/index.m3u8
+https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Rupasi Bangla
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/RupasiBangla.m3u8
-http://38.96.178.201/live/RuposhiBangla/index.m3u8
+https://tvsen6.aynaott.com/RupshiBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD: Star Jalsha (FHD)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="Bangla",Star Jalsha HD
 #http://38.96.178.201/live/STARJALSHA/index.m3u8
