@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:1
-#EXT-X-MEDIA-SEQUENCE:1
-#EXTINF:3.600,
-http://gotit14.xyz:80/live/2F635BX/ZJX02CY/34727.ts
-#EXTINF:3.600,
-http://gotit14.xyz:80/live/2F635BX/ZJX02CY/34727.ts
+#EXT-X-STREAM-INF:BANDWIDTH=1280000,RESOLUTION=640x360
+http://tv.bdiptv.store:80/live/restreauu/refstream/132.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2560000,RESOLUTION=1280x720
+http://tv.bdiptv.store:80/live/restreauu/refstream/132.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=5000000,RESOLUTION=1920x1080
+http://tv.bdiptv.store:80/live/restreauu/refstream/132.m3u8
