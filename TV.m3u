@@ -171,7 +171,7 @@ http://xott.live:8080/shams1234/shams1234/167588
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 Hd " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports",STAR SPORTS 1 Hd
 #https://rex-streaming.vercel.app/api/BDIX/109987.m3u8|user-agent=@xfireflixbd
 #http://filex.me:8080/live/1234567890/1234567890/52094.ts
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3715.ts
+https://d8.merichunidya.com:1686/hls/star1in.m3u8?md5=2ftyxKitjWx1lk8lJVz5dg&expires=1756041584
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI HD "tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png" group-title="Sports",Star Sports 1 HINDI HD
 #https://rex-streaming.vercel.app/api/BDIX/109986.m3u8|user-agent=@xfireflixbd
@@ -255,10 +255,10 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/F
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Sports",ASTRO CRICKET HD
 #http://starshare.live/live/bana/bana/2494.m3u8
 #https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/AstroCricketHd.m3u8
-http://xott.live:8080/shams1234/shams1234/167581
+http://filex.me:8080/live/1234567890/1234567890/451415.ts
 
 #EXTINF:-1 tvg-id="cric" tvg-name="WILLOW CRICKET HD" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="Sports",WILLOW CRICKET HD
-http://filex.me:8080/live/1234567890/1234567890/451415.ts
+https://d1.merichunidya.com:1686/hls/willowusa.m3u8?md5=7ScD_SHZLsRiN7RPbZxoEw&expires=1756041585
 
 #EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", Willow 2 HD
 #https://rex-streaming.vercel.app/api/x/167582.m3u8
@@ -276,7 +276,7 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/11683.ts
 
 #EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", Ten Sports HD
 #https://rex-streaming.vercel.app/api/x/167569.m3u8
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12330.ts
+https://d3.merichunidya.com:1686/hls/tenspk.m3u8?md5=uRNUwgItubXBZ9WtTuaMFA&expires=1756041585
 #https://rex-streaming.vercel.app/api/BDIX/167569.m3u8|user-agent=@xfireflixbd
 
 
