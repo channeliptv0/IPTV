@@ -341,21 +341,21 @@ http://app.hughag.store/api/6b9c461155/playlist.m3u8
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpjuiCtPy318T8ckhoNIm92rXvIY9D9e0QO4NH_ljmBfukyCqJ4ueUhcZ&s=10" group-title="Hindi Movies",Star GOLD Hd
 #https://rex-streaming.vercel.app/api/BDIX/109959.m3u8|user-agent=@xfireflixbd
 #http://38.96.178.201/live/StarGold/index.m3u8
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3708.ts
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/92.m3u8
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD 2 Hd
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12470.ts
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD Select Hd
 #https://rex-streaming.vercel.app/api/BDIX/109960.m3u8|user-agent=@xfireflixbd
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3710.ts
+http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/15302.m3u8
 
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD Romance
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3709.ts
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",STAR GOLD THRILLS
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3711.ts
+https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
 
 #EXTINF:-1 tvg-id="zee" tvg-name="IN: &xplor(FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OhtB9XC-V_tzHHV2WYmGG1bT7VJLeiUczBbSADwMyfwQBkTEEV03Tg2S&s=10" group-title="Hindi Movies",&xplor Hd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -367,7 +367,8 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3655.ts
 #https://live.drmlive-02.workers.dev/zee/0-9-tvpictureshd.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="11" group-title="Hindi Movies",Sony Max HD 
-https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/Qyqz40bSQriqSuAC7R8_Fw/master.m3u8
+http://app.hughag.store/api/9bcb965282/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="6" group-title="Hindi Movies",Sony Max 
 https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
@@ -376,14 +377,14 @@ https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
 http://filex.me:8080/live/wbNER77tKU/i1YcYBsPNU/512328.m3u8?play_token=TT7gXEivTD
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX2-New-Logo.png" tvg-chno="7" group-title="Hindi Movies",Sony Max2 HD 
-https://pubads.g.doubleclick.net/ssai/event/4Jcu195QTpCNBXGnpw2I6g/master.m3u8
+http://app.hughag.store/api/a5d2c9a383/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/270x152/1170x658withlogocac7810d94c848dba02ed5ab44341a78.png" group-title="Hindi Movies",Zee Cinema
 https://live.drmlive-02.workers.dev/zee/0-9-zeecinema.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Zee Cinema HD
 #https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeecinema/default/manifest.mpd
+http://app.hughag.store/api/63785f090e/playlist.m3u8
 #https://live.drmlive-02.workers.dev/zee/0-9-zeecinemahd.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeeanmolcinema" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/270x152/1170x658withlogo1a82943769da4b59aa160d90c9e3ebb9.png" group-title="",Zee Anmol Cinema
