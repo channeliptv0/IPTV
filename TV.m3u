@@ -65,9 +65,7 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/ZeeT
 
 
 #EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD SPORTS" tvg-logo="https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/Logo/dd-sports.png" group-title="Sports",DD SPORTS
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/ddsports.m3u8
-#https://sflex07.fun:443/07/jio/app/ts_live_204.m3u8
-http://xott.live:8080/shams1234/shams1234/167588
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 Hd " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports",STAR SPORTS 1 Hd
 #https://rex-streaming.vercel.app/api/BDIX/109987.m3u8|user-agent=@xfireflixbd
