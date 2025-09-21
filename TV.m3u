@@ -309,6 +309,10 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/A
 https://rex-streaming.vercel.app/api/BDIX/245906.m3u8|user-agent=@xfireflixbd
 
 
+#EXTINF:-1 tvg-id="1669" tvg-logo="" group-title="Bangla", Gopal Bhar
+https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+
+
 
 
 
