@@ -220,13 +220,15 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/12475.ts
 https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-HD-New-Logo.png" tvg-chno="14" group-title="Sports",Sony sports ten 1 HD 
-https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+#https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
+http://nayatv.ydns.eu/xfireflix/flixfire/11679
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png" tvg-chno="17" group-title="Sports",Sony sports ten 2 
 https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png" tvg-chno="16" group-title="Sports",Sony sports ten 2 HD 
-https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+#https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
+http://nayatv.ydns.eu/xfireflix/flixfire/11680
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png" tvg-chno="19" group-title="Sports",Sony sports ten 3 
 https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
@@ -244,7 +246,8 @@ https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-New-Logo.png" tvg-chno="13" group-title="Sports",Sony sports ten 5 HD 
-https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
+http://nayatv.ydns.eu/xfireflix/flixfire/11681
 
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L1XzAytScLX1kNIcd5Fg8cPPW5ASZAA17l2eoZj59Df2D3rk9PcyuDOm&s=10" group-title="Sports",Sky Sports Cricket
 #http://starshare.live/live/bana/bana/124269.m3u8
