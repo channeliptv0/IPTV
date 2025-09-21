@@ -253,10 +253,11 @@ https://tvsen6.aynaott.com/RupshiBangla/index.m3u8
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD: Star Jalsha (FHD)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="Bangla",Star Jalsha HD
 #http://38.96.178.201/live/STARJALSHA/index.m3u8
 #https://rex-streaming.vercel.app/api/BDIX/245898.m3u8|user-agent=@xfireflixbd
-http://starshare.fun:8080/live/keerthi5599/superdeal34/98883.ts
+https://rextv-byxfireflix.vercel.app/stream/245898/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSynRSj31bPElV0r-SBliTR5hSUcIzXV5AY5g&usqp=CAU" group-title="Bangla",ZEE Bangla HD
-https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+https://rextv-byxfireflix.vercel.app/stream/245893/index.m3u8
+#https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #https://rex-streaming.vercel.app/api/BDIX/245893.m3u8|user-agent=@xfireflixbd
 
 #EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="IN: Colors_Bengali_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRArZlqFdhSz0lVGy8XxdT4ca2edA4mqtLhkg&usqp=CAU" group-title="Bangla",Colors Bangla Hd
@@ -266,14 +267,14 @@ http://38.96.178.201/live/ColorsBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES HD
 #https://rex-streaming.vercel.app/api/BDIX/245900.m3u8|user-agent=@xfireflixbd
-http://filex.me:8080/live/1234567890/1234567890/522646.ts
+https://rextv-byxfireflix.vercel.app/stream/245900/index.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES SD
-http://38.96.178.201/live/JalshaMovies/index.m3u8
+https://rextv-byxfireflix.vercel.app/stream/245900/index.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebanglacinema/list/270x152/1170x658withlogo37ae3406ee15436ab22f702a95eedaa7.png" group-title="Bangla",Zee Bangla Cinema
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglacinema/default/manifest.mpd
+https://rextv-byxfireflix.vercel.app/stream/245897/index.m3u8
 #https://rex-streaming.vercel.app/api/BDIX/245897.m3u8|user-agent=@xfireflixbd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Bangla",Colours Bangla Cinema
