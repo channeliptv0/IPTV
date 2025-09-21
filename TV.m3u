@@ -2,7 +2,73 @@
 
 
 
+#EXTINF:-1 tvg-id="DDBangla.in" tvg-logo="https://i.imgur.com/RHly9gC.png" group-title="Bangla",DD Bangla
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcgFfWnmz7ZN9wlA2i-hKnnjMveQ6i1V1qsdycklSTxOqZIpvDhCSt0XU&s=10" group-title="Bangla",R. Bangla
+#https://vg-republictvyupp.akamaized.net/ptnr-yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/d6261340-ae17-4ea8-91d0-44e44466dd6b/2.m3u8
+#https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
+https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Zee 24 Ghanta
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",TV9 Bangla
+https://amg01106-tv9-amg01106c1-xiaomi-in-1073.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9bangala-xiaomiin/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",ABP Ananda
+#https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8
+#https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
+https://abplive.vgcdn.net/ptnr-yupptv/title-Ananda/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ed99a686-d5e1-42d8-ba3c-719c604586c8/master.m3u8?hdnts=st%3D1752285033~exp%3D1752306633~acl%3D%21%2A%2Fptnr-yupptv%2Fti
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",News 18 Bangla
+https://amg00866-amg00866c8-xiaomi-in-3555.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RPlus.in" tvg-logo="https://i.imgur.com/XUnWcZF.png" group-title="Bangla",R Plus
+https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Bangla Jago
+http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",HIGH NEWS
+http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png" group-title="Bangla",Calcutta News
+https://akdnetwork.co.in/live/cnnew/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/samay-kolkata.png" group-title="Bangla",Samay Kolkata
+https://server.playontv.in/SAMAYKOLKATA/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png" group-title="Bangla", Kolkata TV
+https://tvsen6.aynaott.com/kolkatatv/index.m3u8?e=1753741217&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=a64274afbdb3044d491194dcc48a037d
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Sangeet Bangla
+https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Rupasi Bangla
+https://tvsen6.aynaott.com/RupshiBangla/index.m3u8
+
+#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD: Star Jalsha (FHD)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="Bangla",Star Jalsha HD
+#http://38.96.178.201/live/STARJALSHA/index.m3u8
+#https://rex-streaming.vercel.app/api/BDIX/245898.m3u8|user-agent=@xfireflixbd
+https://rextv-byxfireflix.vercel.app/stream/245898/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSynRSj31bPElV0r-SBliTR5hSUcIzXV5AY5g&usqp=CAU" group-title="Bangla",ZEE Bangla HD
+https://rextv-byxfireflix.vercel.app/stream/245893/index.m3u8
+#https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+#https://rex-streaming.vercel.app/api/BDIX/245893.m3u8|user-agent=@xfireflixbd
+
+#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="IN: Colors_Bengali_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRArZlqFdhSz0lVGy8XxdT4ca2edA4mqtLhkg&usqp=CAU" group-title="Bangla",Colors Bangla Hd
+#https://rex-streaming.vercel.app/api/BDIX/245895.m3u8|user-agent=@xfireflixbd
+https://rextv-byxfireflix.vercel.app/stream/245895/index.m3u8
+#https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES HD
+#https://rex-streaming.vercel.app/api/BDIX/245900.m3u8|user-agent=@xfireflixbd
+https://rextv-byxfireflix.vercel.app/stream/245900/index.m3u8
+
+#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES SD
 https://rextv-byxfireflix.vercel.app/stream/245900/index.m3u8
 
 
@@ -252,73 +318,7 @@ http://app.hughag.store/api/6b9c461155/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="DDBangla.in" tvg-logo="https://i.imgur.com/RHly9gC.png" group-title="Bangla",DD Bangla
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcgFfWnmz7ZN9wlA2i-hKnnjMveQ6i1V1qsdycklSTxOqZIpvDhCSt0XU&s=10" group-title="Bangla",R. Bangla
-#https://vg-republictvyupp.akamaized.net/ptnr-yupptv/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-613605/d6261340-ae17-4ea8-91d0-44e44466dd6b/2.m3u8
-#https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/main.m3u8
-https://amg01218-republictvfast-amg01218c1-samsung-in-1918.playouts.now.amagi.tv/playlist/amg01218-republictvfast-rbangla-samsungin/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Zee 24 Ghanta
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zee24ghantaa-xiaomi/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",TV9 Bangla
-https://amg01106-tv9-amg01106c1-xiaomi-in-1073.playouts.now.amagi.tv/playlist/amg01106-tv9fast-tv9bangala-xiaomiin/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",ABP Ananda
-#https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-abpananda-xiaomi/playlist.m3u8
-#https://abplivetv.akamaized.net/hls/live/2043012/ananda/master.m3u8
-https://abplive.vgcdn.net/ptnr-yupptv/title-Ananda/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/ed99a686-d5e1-42d8-ba3c-719c604586c8/master.m3u8?hdnts=st%3D1752285033~exp%3D1752306633~acl%3D%21%2A%2Fptnr-yupptv%2Fti
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",News 18 Bangla
-https://amg00866-amg00866c8-xiaomi-in-3555.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RPlus.in" tvg-logo="https://i.imgur.com/XUnWcZF.png" group-title="Bangla",R Plus
-https://thelegitpro.in/pntv/rplusnews24x7/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Bangla Jago
-http://banglajagotv.livebox.co.in:80/banglajagohls/24x7.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",HIGH NEWS
-http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png" group-title="Bangla",Calcutta News
-https://akdnetwork.co.in/live/cnnew/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/samay-kolkata.png" group-title="Bangla",Samay Kolkata
-https://server.playontv.in/SAMAYKOLKATA/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png" group-title="Bangla", Kolkata TV
-https://tvsen6.aynaott.com/kolkatatv/index.m3u8?e=1753741217&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=a64274afbdb3044d491194dcc48a037d
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Sangeet Bangla
-https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Rupasi Bangla
-https://tvsen6.aynaott.com/RupshiBangla/index.m3u8
-
-#EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD: Star Jalsha (FHD)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="Bangla",Star Jalsha HD
-#http://38.96.178.201/live/STARJALSHA/index.m3u8
-#https://rex-streaming.vercel.app/api/BDIX/245898.m3u8|user-agent=@xfireflixbd
-https://rextv-byxfireflix.vercel.app/stream/245898/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSynRSj31bPElV0r-SBliTR5hSUcIzXV5AY5g&usqp=CAU" group-title="Bangla",ZEE Bangla HD
-https://rextv-byxfireflix.vercel.app/stream/245893/index.m3u8
-#https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
-#https://rex-streaming.vercel.app/api/BDIX/245893.m3u8|user-agent=@xfireflixbd
-
-#EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="IN: Colors_Bengali_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRArZlqFdhSz0lVGy8XxdT4ca2edA4mqtLhkg&usqp=CAU" group-title="Bangla",Colors Bangla Hd
-#https://rex-streaming.vercel.app/api/BDIX/245895.m3u8|user-agent=@xfireflixbd
-https://rextv-byxfireflix.vercel.app/stream/245895/index.m3u8
-#https://tvsen5.aynaott.com/u3LkNQ7UHhFX/tracks-v1a1/mono.ts.m3u8
-
-#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES HD
-#https://rex-streaming.vercel.app/api/BDIX/245900.m3u8|user-agent=@xfireflixbd
-https://rextv-byxfireflix.vercel.app/stream/245900/index.m3u8
-
-#EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES SD
 
 
 
