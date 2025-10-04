@@ -176,6 +176,8 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/ZeeT
 
 
 
+
+
 #EXTINF:-1 tvg-id="ddsports.in" tvg-name="DD SPORTS" tvg-logo="https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/Logo/dd-sports.png" group-title="Sports",DD SPORTS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 
@@ -314,7 +316,8 @@ http://app.hughag.store/api/6b9c461155/playlist.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="ZBCinema.in" group-title="Hindi Movies",ZB Cinema (720p)
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpjuiCtPy318T8ckhoNIm92rXvIY9D9e0QO4NH_ljmBfukyCqJ4ueUhcZ&s=10" group-title="Hindi Movies",Star GOLD Hd
 #https://rex-streaming.vercel.app/api/BDIX/109959.m3u8|user-agent=@xfireflixbd
