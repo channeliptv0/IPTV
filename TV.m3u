@@ -339,8 +339,10 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",STAR GOLD THRILLS
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
 
-#EXTINF:-1 tvg-id="StarUtsavMovies.in@SD",group-title="Hindi Movies",Star Utsav Movies (576p) [Not 24/7]
+#EXTINF:-1 tvg-id="StarUtsavMovies.in@SD",group-title="Hindi Movies",Star Utsav Movies (576p)
 http://116.90.120.149:8000/play/a02r/index.m3u8
+#https://live.dinesh29.com.np/stream/jiotvplus/starutsavmovies/master.m3u8
+
 
 #EXTINF:-1 tvg-id="zee" tvg-name="IN: &xplor(FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OhtB9XC-V_tzHHV2WYmGG1bT7VJLeiUczBbSADwMyfwQBkTEEV03Tg2S&s=10" group-title="Hindi Movies",&xplor Hd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -365,7 +367,7 @@ http://filex.me:8080/live/wbNER77tKU/i1YcYBsPNU/512328.m3u8?play_token=TT7gXEivT
 http://app.hughag.store/api/a5d2c9a383/playlist.m3u8
 
 #EXTINF:-1 tvg-id="0-9-zeecinema" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/270x152/1170x658withlogocac7810d94c848dba02ed5ab44341a78.png" group-title="Hindi Movies",Zee Cinema
-https://live.drmlive-02.workers.dev/zee/0-9-zeecinema.m3u8
+https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Zee Cinema HD
 #https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
@@ -425,6 +427,18 @@ https://tvsen6.aynaott.com/Dhinchaak/index.m3u8?e=1753741253&u=9a031201-22d8-4f7
 #EXTINF:-1 tvg-id="960d0db1-3409-49b7-87da-61fe83fa2d8b" tvg-name="Manoranjan TV" tvg-logo="https://s3.aynaott.com/storage/1519c2d5dc918d992b1ff360a53910cb" group-title="Hindi Movies",Manoranjan TV
 https://tvsen6.aynaott.com/ManoranjanTV/index.m3u8?e=1753741253&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=14671c9768741f9f1bd02cdc37b9879c
 
+#EXTINF:-1 tvg-id="ManoranjanGrand.in@SD" tvg-logo="https://i.imgur.com/qfMEz78.png" group-title="Hindi Movies",Manoranjan Grand
+https://cdn-1.pishow.tv/live/1011/master.m3u8
+
+#EXTINF:-1 tvg-id="ManoranjanMovies.in@SD" tvg-logo="https://i.imgur.com/oTBVML2.png" group-title="Hindi Movies",Manoranjan Movies
+https://cdn-2.pishow.tv/live/228/master.m3u8
+
+
+
+
+
+
+
 
 
 
@@ -465,9 +479,12 @@ https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m
 #https://rex-streaming.vercel.app/api/x/109971.m3u8
 https://rex-streaming.vercel.app/api/BDIX/109971.m3u8|user-agent=@xfireflixbd
 
-#EXTINF:-1 tvg-logo="" group-title="English Movie", Star Movies
+#EXTINF:-1 tvg-logo="" group-title="English Movie", Star Movies HD
 #https://rex-streaming.vercel.app/api/x/109970.m3u8
-https://rex-streaming.vercel.app/api/BDIX/109970.m3u8|user-agent=@xfireflixbd
+https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
+
+#EXTINF:-1 tvg-id="StarMoviesSelect.in@HD" tvg-logo="https://i.imgur.com/bnzDNCF.png" group-title="English Movie",Star Movies Select HD (1080p)
+https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="English Movie", Movies Now HD
 #https://rex-streaming.vercel.app/api/x/109968.m3u8
