@@ -54,7 +54,7 @@ https://tvsen6.aynaott.com/RupshiBangla/index.m3u8
 https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSynRSj31bPElV0r-SBliTR5hSUcIzXV5AY5g&usqp=CAU" group-title="Bangla",ZEE Bangla HD
-https://rextv-byxfireflix.vercel.app/stream/245893/index.m3u8
+https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8?e=1754812292&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=14674aa2b8d3658b329a595a5fab4e7d
 #https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #https://rex-streaming.vercel.app/api/BDIX/245893.m3u8|user-agent=@xfireflixbd
 
@@ -219,11 +219,13 @@ http://116.90.120.149:8000/play/a0cm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-HD-New-Logo.png" tvg-chno="14" group-title="Sports",Sony sports ten 1 HD 
 #https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=uuppR6KKXV_9JzSzrEbljA&expires=1759586015
+#https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=uuppR6KKXV_9JzSzrEbljA&expires=1759586015
+https://ottbanglacdn.konikah799.workers.dev/api/762cf859a8/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png" tvg-chno="16" group-title="Sports",Sony sports ten 2 HD 
 #https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
-http://nayatv.ydns.eu/xfireflix/flixfire/11680
+#http://nayatv.ydns.eu/xfireflix/flixfire/11680
+https://ottbanglacdn.konikah799.workers.dev/api/45dc1e0f41/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png" tvg-chno="18" group-title="Sports",Sony sports ten 3 HD 
 #https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
@@ -234,7 +236,8 @@ https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-New-Logo.png" tvg-chno="13" group-title="Sports",Sony sports ten 5 HD 
 #https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
-http://nayatv.ydns.eu/xfireflix/flixfire/11681
+#http://nayatv.ydns.eu/xfireflix/flixfire/11681
+https://ottbanglacdn.konikah799.workers.dev/api/d74ec2f219/playlist.m3u8
 
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L1XzAytScLX1kNIcd5Fg8cPPW5ASZAA17l2eoZj59Df2D3rk9PcyuDOm&s=10" group-title="Sports",Sky Sports Cricket
 #http://starshare.live/live/bana/bana/124269.m3u8
@@ -359,7 +362,8 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/3655.ts
 http://app.hughag.store/api/9bcb965282/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="6" group-title="Hindi Movies",Sony Max 
-https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+#https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
+https://ottbanglacdn.konikah799.workers.dev/api/9bcb965282/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="6" group-title="Hindi Movies",Sony Max 1
 http://filex.me:8080/live/wbNER77tKU/i1YcYBsPNU/512328.m3u8?play_token=TT7gXEivTD
