@@ -177,12 +177,11 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 Hd " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports",STAR SPORTS 1 Hd
 #https://rex-streaming.vercel.app/api/BDIX/109987.m3u8|user-agent=@xfireflixbd
 #http://filex.me:8080/live/1234567890/1234567890/52094.ts
-https://d8.merichunidya.com:1686/hls/star1in.m3u8?md5=2ftyxKitjWx1lk8lJVz5dg&expires=1756041584
+https://d9.merichunidya.com:1686/hls/star1in.m3u8?md5=xzsW0pXtO90nO99kL_cyCw&expires=1759583835
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI HD "tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png" group-title="Sports",Star Sports 1 HINDI HD
 #https://rex-streaming.vercel.app/api/BDIX/109986.m3u8|user-agent=@xfireflixbd
-#http://filex.me:8080/live/1234567890/1234567890/90342.ts
-http://nayatv.ydns.eu:80/xfireflix/flixfire/3716.ts
+https://d2.merichunidya.com:1686/hls/starhindi.m3u8?md5=ccaPZeiii5WK42NMNIOrVw&expires=1759583835
 
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 Tamil HD "tvg-logo="" group-title="Sports",Star Sports 1 Tamil HD
@@ -208,43 +207,24 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/12474.ts
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" group-title="Sports",Star Sports Select 2 HD
 http://nayatv.ydns.eu:80/xfireflix/flixfire/12475.ts
 
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-New-Logo.png" tvg-chno="15" group-title="Sports",Sony sports ten 1 
-https://pubads.g.doubleclick.net/ssai/event/4_pnLi2QTe6bRGvvahRbfg/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-HD-New-Logo.png" tvg-chno="14" group-title="Sports",Sony sports ten 1 HD 
 #https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
-http://nayatv.ydns.eu/xfireflix/flixfire/11679
-
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png" tvg-chno="17" group-title="Sports",Sony sports ten 2 
-https://pubads.g.doubleclick.net/ssai/event/nspQRqO5RmC06VmlPrTwkQ/master.m3u8
+https://d2.merichunidya.com:1686/hls/ten1hd.m3u8?md5=uuppR6KKXV_9JzSzrEbljA&expires=1759586015
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten2-HD-New-Logo.png" tvg-chno="16" group-title="Sports",Sony sports ten 2 HD 
 #https://pubads.g.doubleclick.net:443/ssai/event/Syu8F41-R1y_JmQ7x0oNxQ/master.m3u8
 http://nayatv.ydns.eu/xfireflix/flixfire/11680
 
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png" tvg-chno="19" group-title="Sports",Sony sports ten 3 
-https://pubads.g.doubleclick.net/ssai/event/9kocjiLUSf-erlSrv3d4Mw/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten3-HD.png" tvg-chno="18" group-title="Sports",Sony sports ten 3 HD 
 #https://pubads.g.doubleclick.net:443/ssai/event/nmQFuHURTYGQBNdUG-2Qdw/master.m3u8
 https://dai.google.com/ssai/event/WuMNGfdPRoW2_F3QZUXNRw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten4.png" tvg-chno="21" group-title="Sports",Sony sports ten 4
-https://pubads.g.doubleclick.net/ssai/event/hInaEKUJSziZAGv9boOdjg/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten4.png" tvg-chno="20" group-title="Sports",Sony sports ten 4 HD 
 https://pubads.g.doubleclick.net/ssai/event/x4LxWUcVSIiDaq1VCM7DSA/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-HD-New-Logo.png" tvg-chno="12" group-title="Sports",Sony sports ten 5
-https://pubads.g.doubleclick.net:443/ssai/event/DD7fA-HgSUaLyZp9AjRYxQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten5-New-Logo.png" tvg-chno="13" group-title="Sports",Sony sports ten 5 HD 
 #https://pubads.g.doubleclick.net/ssai/event/S-q8I27RRzmkb-OIdoaiAw/master.m3u8
 http://nayatv.ydns.eu/xfireflix/flixfire/11681
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009421/1758893223891701_World_Para_Athletics_Championships_2025_DAY_4_landscape_thumb.jpg" group-title="sonyliv-Sports", Day 4 - 30 Sep 2025 [ENG] - World Para Athletics, Sony LIV
-https://liveakmt-p-web.slivcdn.com/hls/live/2005444/DAI07ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1759252425~acl=/*~id=60046623452209565289104575385003~hmac=2809eeeb3bad07b0758f7419e1d581d3661
-
 
 #EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L1XzAytScLX1kNIcd5Fg8cPPW5ASZAA17l2eoZj59Df2D3rk9PcyuDOm&s=10" group-title="Sports",Sky Sports Cricket
 #http://starshare.live/live/bana/bana/124269.m3u8
