@@ -38,10 +38,11 @@ http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/samay-kolkata.png" group-title="Bangla",Samay Kolkata
-https://server.playontv.in/SAMAYKOLKATA/index.m3u8
+https://5dd3981940faa.streamlock.net/kbcration/kbcration/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kolkata_TV.png" group-title="Bangla", Kolkata TV
-https://tvsen6.aynaott.com/kolkatatv/index.m3u8?e=1753741217&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=a64274afbdb3044d491194dcc48a037d
+#https://tvsen6.aynaott.com/kolkatatv/index.m3u8?e=1753741217&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=a64274afbdb3044d491194dcc48a037d
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Sangeet Bangla
 https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
@@ -100,6 +101,10 @@ https://tvsen5.aynaott.com/Wm9Lv2RjZGT6/index.m3u8?e=1753741215&u=9a031201-22d8-
 #EXTINF:-1 tvg-id="1669" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sun_Bangla.png" group-title="Bangla", Sun Bangla
 #https://rex-streaming.vercel.app/api/BDIX/245906.m3u8|user-agent=@xfireflixbd
 https://rextv-byxfireflix.vercel.app/stream/245906/index.m3u8
+
+
+#EXTINF:-1 tvg-id="KhushbooBangla.in@SD" group-title="Bangla",Khushboo Bangla (720p)
+https://cdn-4.pishow.tv/live/1473/master.m3u8
 
 
 #EXTINF:-1 tvg-id="1669" tvg-logo="" group-title="Bangla", Gopal Bhar
