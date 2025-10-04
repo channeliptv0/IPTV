@@ -67,7 +67,7 @@ https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebanglacinema/list/270x152/1170x658withlogo37ae3406ee15436ab22f702a95eedaa7.png" group-title="Bangla",Zee Bangla Cinema
-https://rextv-byxfireflix.vercel.app/stream/245897/index.m3u8
+http://103.182.170.32:8888/play/a044
 #https://rex-streaming.vercel.app/api/BDIX/245897.m3u8|user-agent=@xfireflixbd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Bangla",Colours Bangla Cinema
