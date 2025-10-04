@@ -205,7 +205,7 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/11682.ts
 https://tvsen6.aynaott.com/spsel1/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5f45fc60f73036091c4c6ffd19083b5d
 
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" group-title="Sports",Star Sports Select 2 HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12475.ts
+http://116.90.120.149:8000/play/a0cm/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-HD-New-Logo.png" tvg-chno="14" group-title="Sports",Sony sports ten 1 HD 
 #https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
@@ -314,10 +314,10 @@ http://app.hughag.store/api/6b9c461155/playlist.m3u8
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpjuiCtPy318T8ckhoNIm92rXvIY9D9e0QO4NH_ljmBfukyCqJ4ueUhcZ&s=10" group-title="Hindi Movies",Star GOLD Hd
 #https://rex-streaming.vercel.app/api/BDIX/109959.m3u8|user-agent=@xfireflixbd
 #http://38.96.178.201/live/StarGold/index.m3u8
-http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/92.m3u8
+http://116.90.120.149:8000/play/a0c2/index.m3u8
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD 2 Hd
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12470.ts
+http://116.90.120.149:8000/play/a0ea/index.m3u8
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD Select Hd
 #https://rex-streaming.vercel.app/api/BDIX/109960.m3u8|user-agent=@xfireflixbd
@@ -329,6 +329,9 @@ https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",STAR GOLD THRILLS
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldthrills/master.m3u8
+
+#EXTINF:-1 tvg-id="StarUtsavMovies.in@SD",group-title="Hindi Movies",Star Utsav Movies (576p) [Not 24/7]
+http://116.90.120.149:8000/play/a02r/index.m3u8
 
 #EXTINF:-1 tvg-id="zee" tvg-name="IN: &xplor(FHD)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6OhtB9XC-V_tzHHV2WYmGG1bT7VJLeiUczBbSADwMyfwQBkTEEV03Tg2S&s=10" group-title="Hindi Movies",&xplor Hd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
@@ -682,10 +685,7 @@ https://d1e7rcqq4o2ma.cloudfront.net/bpk-tv/1703/output/master.m3u8
 http://38.96.178.201/live/StarPlus/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Star_PlusHD.png"group-title="Entertainment",Star plus HD
-#https://starshare.live/live/bana/bana/221.m3u8
-#https://starshare.live/live/bana/bana/98849.m3u8
-#https://starshare.live/live/bana/bana/167.m3u8
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/STARM3U8/StarPlusHd.m3u8
+http://116.90.120.149:8000/play/a0b9/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Colors.png"group-title="Entertainment",Colors HD
 #https://live.drmlive-02.workers.dev/jc/144.m3u8
