@@ -59,7 +59,8 @@ https://rextv-byxfireflix.vercel.app/stream/245893/index.m3u8
 #https://rex-streaming.vercel.app/api/BDIX/245893.m3u8|user-agent=@xfireflixbd
 
 #EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="IN: Colors_Bengali_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRArZlqFdhSz0lVGy8XxdT4ca2edA4mqtLhkg&usqp=CAU" group-title="Bangla",Colors Bangla Hd
-https://live.dinesh29.com.np/stream/jiotv/colorsbangla/master.m3u8
+#https://live.dinesh29.com.np/stream/jiotv/colorsbangla/master.m3u8
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES HD
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
@@ -560,7 +561,7 @@ https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Dhoom Music
-http://38.96.178.201/live/Dhoom/index.m3u8
+https://cdn-1.pishow.tv/live/1456/master.m3u8
 
 #EXTINF:-1 tvg-id="ZBMusic.in" group-title="Music",ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
