@@ -124,31 +124,31 @@ https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Zee",Zee Cinema NZ
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SP",Zee Cinema NZ
 https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Zee",Zee Bolly Movies
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SP",Zee Bolly Movies
 https://amg17931-zee-amg17931c8-samsung-th-6526.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Zee",Zee Bihar
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SP",Zee Bihar
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeebihar-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Zee",Zee Taas
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SP",Zee Taas
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeetaas-xiaomi/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Zee",Zee Wion
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SP",Zee Wion
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-zeewion-xiaomi/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Zee",Zee Nung
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SP",Zee Nung
 https://amg17931-zee-amg17931c4-samsung-th-5592.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeenung-samsungth/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Zee",Zee World
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SP",Zee World
 https://amg17931-zee-amg17931c6-samsung-th-5714.playouts.now.amagi.tv/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="Zee",Zee tv HD
+#EXTINF:-1 tvg-logo="https://mediaready.videoready.tv/tatasky-epg/image/fetch/f_auto,fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png" group-title="SP",Zee tv HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #https://la.drmlive.net/tp/zee-zeetvhd.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #https://live.drmlive-02.workers.dev/zee/zee-tv-hd.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 15; SM-A102U) AppleWebKit/537.36 (KHTML, like Gecko)&Referer=https://www.zee5.com/
@@ -157,6 +157,8 @@ https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/ZEEM3U8/ZeeT
 #https://la.drmlive.net/tp/zee-zeetvhd.m3u8
 #http://gotit14.xyz:80/live/2F635BX/ZJX02CY/72135.ts
 
+#EXTINF:-1 tvg-id="ZBCinema.in" group-title="SP",ZB Cinema (720p)
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 
 
@@ -188,7 +190,7 @@ https://d9.merichunidya.com:1686/hls/star1in.m3u8?md5=xzsW0pXtO90nO99kL_cyCw&exp
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI HD "tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png" group-title="Sports",Star Sports 1 HINDI HD
 #https://rex-streaming.vercel.app/api/BDIX/109986.m3u8|user-agent=@xfireflixbd
-https://d2.merichunidya.com:1686/hls/starhindi.m3u8?md5=ccaPZeiii5WK42NMNIOrVw&expires=1759583835
+http://116.90.120.149:8000/play/a0bv/index.m3u8
 
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 Tamil HD "tvg-logo="" group-title="Sports",Star Sports 1 Tamil HD
@@ -201,7 +203,7 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/11677.ts
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sport 2 Hindi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",STAR SPORTS 2 HINDI HD
 #https://rex-streaming.vercel.app/api/BDIX/109988.m3u8|user-agent=@xfireflixbd
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12473.ts
+http://116.90.120.149:8000/play/a0cs/index.m3u8
 
 
 
@@ -209,7 +211,7 @@ http://nayatv.ydns.eu:80/xfireflix/flixfire/12473.ts
 http://nayatv.ydns.eu:80/xfireflix/flixfire/11682.ts
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="Sports",Star Sports Select 1 HD
-https://tvsen6.aynaott.com/spsel1/index.m3u8?e=1753741230&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=5f45fc60f73036091c4c6ffd19083b5d
+http://116.90.120.149:8000/play/a0cl/index.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" group-title="Sports",Star Sports Select 2 HD
 http://116.90.120.149:8000/play/a0cm/index.m3u8
@@ -316,8 +318,7 @@ http://app.hughag.store/api/6b9c461155/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="ZBCinema.in" group-title="Hindi Movies",ZB Cinema (720p)
-https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpjuiCtPy318T8ckhoNIm92rXvIY9D9e0QO4NH_ljmBfukyCqJ4ueUhcZ&s=10" group-title="Hindi Movies",Star GOLD Hd
 #https://rex-streaming.vercel.app/api/BDIX/109959.m3u8|user-agent=@xfireflixbd
@@ -438,6 +439,8 @@ https://tvsen6.aynaott.com/ManoranjanTV/index.m3u8?e=1753741253&u=9a031201-22d8-
 
 
 
+
+
 #EXTINF:-1 tvg-id="0-9-9z5543514" tvg-name="&Prive HD" tvg-language="English" tvg-country="IN" tvg-logo="https://akamaividz.zee5.com/resources/0-9-9z5543514/list/270x152/1170x658withlogo7717294688b1c3f4d4c824099903d383846fa1b16.png" tvg-chno="0-9-9z5543514" group-title="English Movie",&Prive HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 #https://la.drmlive.au/tp/zee-9z5543514.m3u8 
@@ -541,6 +544,9 @@ https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Dhoom Music
 http://38.96.178.201/live/Dhoom/index.m3u8
+
+#EXTINF:-1 tvg-id="ZBMusic.in" group-title="Music",ZB Music
+https://server.zillarbarta.com/zbmusic/index.m3u8
 
 
 
