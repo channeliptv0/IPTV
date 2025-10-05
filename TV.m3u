@@ -108,9 +108,14 @@ https://rextv-byxfireflix.vercel.app/stream/245906/index.m3u8
 #EXTINF:-1 tvg-id="KhushbooBangla.in@SD" group-title="Bangla",Khushboo Bangla (720p)
 https://cdn-4.pishow.tv/live/1473/master.m3u8
 
+#EXTINF:-1 tvg-id="1669" tvg-logo="" group-title="Bangla", Bangla Kirton
+https://live20.bozztv.com/giatvplayout7/giatv-209618/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-id="1669" tvg-logo="" group-title="Bangla", Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
+
+#EXTINF:-1 tvg-id="1669" tvg-logo="" group-title="Bangla", Coke Studio Bangla
+https://live20.bozztv.com/giatvplayout7/giatv-210733/tracks-v1a1/mono.ts.m3u8
 
 
 
