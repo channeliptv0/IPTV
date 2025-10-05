@@ -333,15 +333,16 @@ http://app.hughag.store/api/6b9c461155/playlist.m3u8
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpjuiCtPy318T8ckhoNIm92rXvIY9D9e0QO4NH_ljmBfukyCqJ4ueUhcZ&s=10" group-title="Hindi Movies",Star GOLD Hd
 #https://rex-streaming.vercel.app/api/BDIX/109959.m3u8|user-agent=@xfireflixbd
 #http://38.96.178.201/live/StarGold/index.m3u8
-http://116.90.120.149:8000/play/a0c2/index.m3u8
+http://103.182.170.32:8888/play/a02j
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD 2 Hd
-http://116.90.120.149:8000/play/a0ea/index.m3u8
+http://103.182.170.32:8888/play/a01z
+
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD Select Hd
 #https://rex-streaming.vercel.app/api/BDIX/109960.m3u8|user-agent=@xfireflixbd
-http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/15302.m3u8
-
+#http://tv.bdiptv.store:80/live/restreauuX58y/refstream88/15302.m3u8
+https://live.dinesh29.com.np/stream/jiotvplus/starmoviesselecthd/master.m3u8
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD Romance
 https://live.dinesh29.com.np/stream/jiotvplus/stargoldromance/master.m3u8
