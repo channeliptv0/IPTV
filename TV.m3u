@@ -188,11 +188,12 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/in
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 Hd " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports",STAR SPORTS 1 Hd
 #https://rex-streaming.vercel.app/api/BDIX/109987.m3u8|user-agent=@xfireflixbd
 #http://filex.me:8080/live/1234567890/1234567890/52094.ts
-https://d9.merichunidya.com:1686/hls/star1in.m3u8?md5=xzsW0pXtO90nO99kL_cyCw&expires=1759583835
+http://103.182.170.32:8888/play/a040
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI HD "tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png" group-title="Sports",Star Sports 1 HINDI HD
 #https://rex-streaming.vercel.app/api/BDIX/109986.m3u8|user-agent=@xfireflixbd
-http://116.90.120.149:8000/play/a0bv/index.m3u8
+#http://116.90.120.149:8000/play/a0bv/index.m3u8
+http://103.182.170.32:8888/play/a04e
 
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 Tamil HD "tvg-logo="" group-title="Sports",Star Sports 1 Tamil HD
@@ -201,7 +202,7 @@ http://ptu.ridsys.in/riptv/live/stream20/index.m3u8
 
 
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="STAR SPORTS 2 Hd" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-1021-j5nj3c68-v1%2FimageContent-1021-j5nj3c68-m1.png&w=256&q=75" group-title="Sports",STAR SPORTS 2 Hd
-http://nayatv.ydns.eu:80/xfireflix/flixfire/11677.ts
+http://103.182.170.32:8888/play/a03e
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sport 2 Hindi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",STAR SPORTS 2 HINDI HD
 #https://rex-streaming.vercel.app/api/BDIX/109988.m3u8|user-agent=@xfireflixbd
@@ -213,10 +214,12 @@ http://116.90.120.149:8000/play/a0cs/index.m3u8
 http://nayatv.ydns.eu:80/xfireflix/flixfire/11682.ts
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="Sports",Star Sports Select 1 HD
-http://116.90.120.149:8000/play/a0cl/index.m3u8
+#http://116.90.120.149:8000/play/a0cl/index.m3u8
+http://103.182.170.32:8888/play/a045
 
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" group-title="Sports",Star Sports Select 2 HD
-http://116.90.120.149:8000/play/a0cm/index.m3u8
+#http://116.90.120.149:8000/play/a0cm/index.m3u8
+http://103.182.170.32:8888/play/a047
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-Sports-Ten1-HD-New-Logo.png" tvg-chno="14" group-title="Sports",Sony sports ten 1 HD 
 #https://pubads.g.doubleclick.net:443/ssai/event/yeYP86THQ4yl7US8Zx5eug/master.m3u8
