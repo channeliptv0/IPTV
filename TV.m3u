@@ -44,9 +44,6 @@ https://5dd3981940faa.streamlock.net/kbcration/kbcration/playlist.m3u8
 #https://tvsen6.aynaott.com/kolkatatv/index.m3u8?e=1753741217&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=a64274afbdb3044d491194dcc48a037d
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Sangeet Bangla
-https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Rupasi Bangla
 https://tvsen6.aynaott.com/RupshiBangla/index.m3u8
 
@@ -111,11 +108,29 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 #EXTINF:-1 tvg-id="1669" tvg-logo="" group-title="Bangla", Bangla Kirton
 https://live20.bozztv.com/giatvplayout7/giatv-209618/tracks-v1a1/mono.ts.m3u8
 
+#EXTINF:-1 tvg-id="1669" tvg-logo="" group-title="Bangla", Om Bangla
+https://live20.bozztv.com/giatvplayout7/giatv-210715/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1 tvg-id="1669" tvg-logo="" group-title="Bangla", Gopal Bhar
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
 #EXTINF:-1 tvg-id="1669" tvg-logo="" group-title="Bangla", Coke Studio Bangla
 https://live20.bozztv.com/giatvplayout7/giatv-210733/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="1669" tvg-logo="" group-title="Bangla", Banglai Beats
+https://tplay.live/originals/bengali-beats/index.m3u8
+
+#EXTINF:-1 tvg-id="1669" tvg-logo="" group-title="Bangla", Oxygen Music
+https://tplay.live/originals/oxygen-music/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Sangeet Bangla
+https://tvsen6.aynaott.com/SangeetBangla/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Music" tvg-logo=" ", MON TV
+https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Dhoom Music
+https://cdn-1.pishow.tv/live/1456/master.m3u8
 
 
 
@@ -572,12 +587,6 @@ https://sflex07.fun:443/07/jio/app/ts_live_2065.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Music" tvg-logo=" ", Zoom
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Music" tvg-logo=" ", MON TV
-https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Music",Dhoom Music
-https://cdn-1.pishow.tv/live/1456/master.m3u8
 
 #EXTINF:-1 tvg-id="ZBMusic.in" group-title="Music",ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
