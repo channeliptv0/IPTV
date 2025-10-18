@@ -213,7 +213,7 @@ http://103.182.170.32:8888/play/a040
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI HD "tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png" group-title="Sports",Star Sports 1 HINDI HD
 #https://rex-streaming.vercel.app/api/BDIX/109986.m3u8|user-agent=@xfireflixbd
 #http://116.90.120.149:8000/play/a0bv/index.m3u8
-http://103.182.170.32:8888/play/a04e
+https://proxy.dongobd247.workers.dev/master.m3u8?cid=starhindi
 
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 Tamil HD "tvg-logo="" group-title="Sports",Star Sports 1 Tamil HD
@@ -236,7 +236,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsports3/master.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="Sports",Star Sports Select 1 HD
 #http://116.90.120.149:8000/play/a0cl/index.m3u8
-http://103.182.170.32:8888/play/a045
+#http://103.182.170.32:8888/play/a045
+https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=594809c8-574e-46cf-a3e5-26e0bec1fe33
 
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" group-title="Sports",Star Sports Select 2 HD
 #http://116.90.120.149:8000/play/a0cm/index.m3u8
