@@ -48,20 +48,21 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://tvsen6.aynaott.com/RupshiBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD: Star Jalsha (FHD)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="Bangla",Star Jalsha HD
-https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/master.m3u8
+https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=f07177e9-d1a9-48b4-8e2e-1718d098bbfb
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSynRSj31bPElV0r-SBliTR5hSUcIzXV5AY5g&usqp=CAU" group-title="Bangla",ZEE Bangla HD
 #https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8?e=1754812292&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=14674aa2b8d3658b329a595a5fab4e7d
 #https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #https://rex-streaming.vercel.app/api/BDIX/245893.m3u8|user-agent=@xfireflixbd
-http://103.182.170.32:8888/play/a048
+#http://103.182.170.32:8888/play/a048
+https://ottbanglacdn.konikah799.workers.dev/api/154d534216/playlist.m3u8
 
 #EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="IN: Colors_Bengali_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRArZlqFdhSz0lVGy8XxdT4ca2edA4mqtLhkg&usqp=CAU" group-title="Bangla",Colors Bangla Hd
 #https://live.dinesh29.com.np/stream/jiotv/colorsbangla/master.m3u8
 https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES HD
-https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
+https://iptv.dongobd247.workers.dev/stream.m3u8?id=245900
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebanglacinema/list/270x152/1170x658withlogo37ae3406ee15436ab22f702a95eedaa7.png" group-title="Bangla",Zee Bangla Cinema
@@ -315,7 +316,7 @@ https://d2.merichunidya.com:1686/hls/tenspk.m3u8?md5=R1vqZD8l-gMYbRTDoSY3Gw&expi
 
 #EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", Ten Cricket
 #https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/manifest.mpd?%7CdrmScheme=clearkey&drmLicense=9872e439f21f4a299cab249c6554daa3:0cdfcfe0d0f1fbe100554ce3ef4c4665
-http://app.hughag.store/api/6b9c461155/playlist.m3u8
+https://ottbanglacdn.konikah799.workers.dev/api/6b9c461155/playlist.m3u8
 
 
 
