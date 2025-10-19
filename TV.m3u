@@ -295,7 +295,8 @@ http://filex.me:8080/live/1234567890/1234567890/451415.ts
 
 #EXTINF:-1 tvg-id="cric" tvg-name="WILLOW CRICKET HD" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="Sports",WILLOW CRICKET HD
 #https://d1.merichunidya.com:1686/hls/willowusa.m3u8?md5=7ScD_SHZLsRiN7RPbZxoEw&expires=1756041585
-https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
+#https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
+https://fl25.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", Willow 2 HD
 https://d7.merichunidya.com:1686/hls/willowextra.m3u8?md5=5DbH51yHJpmAgjAww2kOkg&expires=1759217048
