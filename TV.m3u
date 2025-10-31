@@ -208,9 +208,7 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 Hd " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports",STAR SPORTS 1 Hd
-#https://rex-streaming.vercel.app/api/BDIX/109987.m3u8|user-agent=@xfireflixbd
-#http://filex.me:8080/live/1234567890/1234567890/52094.ts
-http://103.182.170.32:8888/play/a040
+http://87.255.35.150:18891
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI HD "tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png" group-title="Sports",Star Sports 1 HINDI HD
 #https://rex-streaming.vercel.app/api/BDIX/109986.m3u8|user-agent=@xfireflixbd
@@ -355,9 +353,8 @@ https://ottbanglacdn.konikah799.workers.dev/api/6b9c461155/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzpjuiCtPy318T8ckhoNIm92rXvIY9D9e0QO4NH_ljmBfukyCqJ4ueUhcZ&s=10" group-title="Hindi Movies",Star GOLD Hd
-#https://rex-streaming.vercel.app/api/BDIX/109959.m3u8|user-agent=@xfireflixbd
-#http://38.96.178.201/live/StarGold/index.m3u8
-https://xfireflix.fun/file/opplex/stream.m3u8?id=66177&e=.m3u8
+http://87.255.35.150:18859/
+
 
 #EXTINF:-1 tvg-id="stargoldhd.in" tvg-logo="" group-title="Hindi Movies",Star GOLD 2 Hd
 #http://103.182.170.32:8888/play/a01z
