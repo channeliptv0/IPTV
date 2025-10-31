@@ -48,18 +48,19 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://tvsen6.aynaott.com/RupshiBangla/index.m3u8
 
 #EXTINF:-1 tvg-id="starjalshahd.in" tvg-name="BD: Star Jalsha (FHD)" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Jalsha.png" group-title="Bangla",Star Jalsha HD
-https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=f07177e9-d1a9-48b4-8e2e-1718d098bbfb
+http://87.255.35.150:18237
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSynRSj31bPElV0r-SBliTR5hSUcIzXV5AY5g&usqp=CAU" group-title="Bangla",ZEE Bangla HD
 #https://tvsen5.aynaott.com/PNEb3v2q6GBk/index.m3u8?e=1754812292&u=9a031201-22d8-4f7e-9516-7d246a8fedc3&token=14674aa2b8d3658b329a595a5fab4e7d
 #https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #https://rex-streaming.vercel.app/api/BDIX/245893.m3u8|user-agent=@xfireflixbd
-#http://103.182.170.32:8888/play/a048
-https://ottbanglacdn.konikah799.workers.dev/api/154d534216/playlist.m3u8
+http://87.255.35.150:18238/
+#https://ottbanglacdn.konikah799.workers.dev/api/154d534216/playlist.m3u8
 
 #EXTINF:-1 tvg-id="colorsbanglahd.in" tvg-name="IN: Colors_Bengali_HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRArZlqFdhSz0lVGy8XxdT4ca2edA4mqtLhkg&usqp=CAU" group-title="Bangla",Colors Bangla Hd
 #https://live.dinesh29.com.np/stream/jiotv/colorsbangla/master.m3u8
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8
+#https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/index.m3u8
+http://87.255.35.150:18236
 
 #EXTINF:-1 tvg-id="jalshamovieshd.in" tvg-name="BD: JALSHA MOVIES (4K)." tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Jalsa_Movies_HD.png" group-title="Bangla",JALSHA MOVIES HD
 https://iptv.dongobd247.workers.dev/stream.m3u8?id=245900
@@ -222,8 +223,7 @@ http://ptu.ridsys.in/riptv/live/stream20/index.m3u8
 
 
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="STAR SPORTS 2 Hd" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-1021-j5nj3c68-v1%2FimageContent-1021-j5nj3c68-m1.png&w=256&q=75" group-title="Sports",STAR SPORTS 2 Hd
-#http://103.182.170.32:8888/play/a03e
-https://live.dinesh29.com.np/stream/jiotvplus/starsportshd2/master.m3u8
+http://87.255.35.150:18892
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sport 2 Hindi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",STAR SPORTS 2 HINDI HD
 #https://rex-streaming.vercel.app/api/BDIX/109988.m3u8|user-agent=@xfireflixbd
@@ -236,8 +236,8 @@ https://live.dinesh29.com.np/stream/jiotvplus/starsports3/master.m3u8
 
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="Star Sports Select 1 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b5/Star_Sports_Select_1_HD.jpg/revision/latest/scale-to-width-down/340?cb=20180806112709" group-title="Sports",Star Sports Select 1 HD
 #http://116.90.120.149:8000/play/a0cl/index.m3u8
-#http://103.182.170.32:8888/play/a045
-https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=594809c8-574e-46cf-a3e5-26e0bec1fe33
+http://87.255.35.150:18893
+#https://ottbpro.khankupan2.workers.dev/vstream.m3u8?id=594809c8-574e-46cf-a3e5-26e0bec1fe33
 
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="Star Sports Select 2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/4/46/Sss-hd2-bronze.png/revision/latest/top-crop/width/220/height/220?cb=20170728104956" group-title="Sports",Star Sports Select 2 HD
 #http://116.90.120.149:8000/play/a0cm/index.m3u8
@@ -433,7 +433,7 @@ https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist
 https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Color_Cineplex_HD.png" group-title="Hindi Movies", Colors Cineplex HD
-https://jio.aminmuaz636.workers.dev/live.php?id=054b4a
+http://87.255.35.150:18296/
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Rishtey_Cineplex.png" group-title="Hindi Movies", Colors Cineplex Superhit
 https://jio.aminmuaz636.workers.dev/live.php?id=f86149
