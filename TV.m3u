@@ -67,7 +67,7 @@ https://iptv.dongobd247.workers.dev/stream.m3u8?id=245900
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://akamaividz.zee5.com/resources/0-9-zeebanglacinema/list/270x152/1170x658withlogo37ae3406ee15436ab22f702a95eedaa7.png" group-title="Bangla",Zee Bangla Cinema
 #http://103.182.170.32:8888/play/a044
-https://ottbanglacdn.konikah799.workers.dev/api/04cb8cb9a7/playlist.m3u8
+https://bongoflixbd.top/test/live.php?id=zee_bangla_cinema&e=.m3u8
 #https://rex-streaming.vercel.app/api/BDIX/245897.m3u8|user-agent=@xfireflixbd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png" group-title="Bangla",Colours Bangla Cinema
@@ -395,14 +395,14 @@ http://103.182.170.32:8888/play/a04f
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="6" group-title="Hindi Movies",Sony Max 
 #https://pubads.g.doubleclick.net/ssai/event/oJ-TGgVFSgSMBUoTkauvFQ/master.m3u8
-https://ottbanglacdn.konikah799.workers.dev/api/9bcb965282/playlist.m3u8
+https://bongoflixbd.top/test/live.php?id=sony_max&e=.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX-HD-New-Logo.png" tvg-chno="6" group-title="Hindi Movies",Sony Max 1
 http://filex.me:8080/live/wbNER77tKU/i1YcYBsPNU/512328.m3u8?play_token=TT7gXEivTD
 
 #EXTINF:-1 tvg-logo="https://www.indiantvinfo.com/media/2022/10/Sony-MAX2-New-Logo.png" tvg-chno="7" group-title="Hindi Movies",Sony Max2 HD 
 #http://103.182.170.32:8888/play/a02l
-https://ottbanglacdn.konikah799.workers.dev/api/a5d2c9a383/playlist.m3u8
+https://bongoflixbd.top/test/live.php?id=sonymax_2&e=.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",Zee Cinema HD
 #https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8
