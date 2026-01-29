@@ -209,21 +209,14 @@ https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index_3.m3u8
 
 #EXTINF:-1 tvg-id="starsports1hd.in" tvg-name="STAR SPORTS 1 Hd " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/2560px-Star_Sports_1_HD.png" group-title="Sports",STAR SPORTS 1 Hd
-http://87.255.35.150:18891
+https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-1/index.m3u8?token=de59425940eb6b351d12f51ff86bc2a4a29852be-096c38ab6b7b5d53ac495ce90e9e9b7a-1769685591-1769681991
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 HINDI HD "tvg-logo="https://static.epg.best/in/StarSports1Hindi.in.png" group-title="Sports",Star Sports 1 HINDI HD
-#https://rex-streaming.vercel.app/api/BDIX/109986.m3u8|user-agent=@xfireflixbd
-#http://116.90.120.149:8000/play/a0bv/index.m3u8
-https://proxy.dongobd247.workers.dev/master.m3u8?cid=starhindi
-
 
 #EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sport 1 Tamil HD "tvg-logo="" group-title="Sports",Star Sports 1 Tamil HD
-#http://starshare.live/live/bana/bana/9399.m3u8
-http://ptu.ridsys.in/riptv/live/stream20/index.m3u8
-
 
 #EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="STAR SPORTS 2 Hd" tvg-logo="https://tvschedule.today/_next/image?url=https%3A%2F%2Fltsk-cdn.s3.eu-west-1.amazonaws.com%2Fjumpstart%2FTemp_Live%2Fcdn%2FHLS%2FChannel%2FimageContent-1021-j5nj3c68-v1%2FimageContent-1021-j5nj3c68-m1.png&w=256&q=75" group-title="Sports",STAR SPORTS 2 Hd
-http://87.255.35.150:18892
+https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-2/index.m3u8?token=baef3373a9ff2f16b22aa3ca5b94b0a9c5c12f11-44724ec77ad703b9c6a4a05e6fe27da8-1769685591-1769681991
 
 #EXTINF:-1 tvg-id="" tvg-name="Star Sport 2 Hindi HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_1_HD.png" group-title="Sports",STAR SPORTS 2 HINDI HD
 #https://rex-streaming.vercel.app/api/BDIX/109988.m3u8|user-agent=@xfireflixbd
