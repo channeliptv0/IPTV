@@ -226,60 +226,9 @@ https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-select-1/index.m3u8?
 https://edge2.roarzone.info:8444/roarzone/edge2/star-sports-select-2/index.m3u8?token=d00466e7fa126198868772c73a5a5ca0eac7e9a5-6f25780d69a2b8459c829a25ef262d14-1769853465-1769849865
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/euro_sports_hd.png" group-title="sports",euro sports
 https://edge2.roarzone.info:8444/roarzone/toffee/euro_sports_hd/index.m3u8?token=4e23e86a20ed1c18cb1d20568c6880c0cf26132d-043703b61c4bc58ea600cfd01cc655f4-1769853465-1769849865
-#EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/dubai-sports.png" group-title="sports",dubai sports
-https://edge2.roarzone.info:8444/roarzone/bk/dubai-sports/index.m3u8?token=407dcbb4531175ab60a3fb926ebd89f034fd12d3-342b67bd732118d919f2669869c242c0-1769853465-1769849865
 #EXTINF:-1 tvg-logo="http://tvassets.roarzone.info/images/ten_cricket.png" group-title="sports",ten cricket
 https://edge2.roarzone.info:8444/roarzone/toffee/ten_cricket/index.m3u8?token=376c494420aed1a84968f435e5522d42445402b6-8173a5ae702f76e5a215ab19e53341fb-1769853465-1769849865
 
-#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="Sky Sports Cricket" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2L1XzAytScLX1kNIcd5Fg8cPPW5ASZAA17l2eoZj59Df2D3rk9PcyuDOm&s=10" group-title="Sports",Sky Sports Cricket
-#http://starshare.live/live/bana/bana/124269.m3u8
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12558.ts
-
-#EXTINF:-1 tvg-id="skysportsplus.uk" tvg-name="Sky Sports Plus" group-title="Sports",Sky Sports Premier
-http://nayatv.ydns.eu:80/xfireflix/flixfire/12149.ts
-
-#EXTINF:-1 tvg-id="skysportsplus.uk" tvg-name="Sky Sports Plus" group-title="Sports",Sky Sports Football
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/SkySportsFootball.m3u8
-http://tv.bdiptv.store:80/live/restreax/refstream/30778.m3u8
-
-
-#EXTINF:-1 tvg-id="cric" tvg-name="Fox Sport 501 HD" tvg-logo="https://media.info/l/o/6/6550.1489223922.png" group-title="Sports",Fox Sports 501 HD
-#http://tv.cloudcdn.me:80/live.ts?channelId=36128&uid=4578&deviceMac=00:1A:79:41:70:15
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/FoxSports501Hd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Plus" group-title="Sports",FoxSoccerPlus Plus
-https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/FoxSoccerPlus.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b7/Astro_Cricket.png" group-title="Sports",ASTRO CRICKET HD
-#http://starshare.live/live/bana/bana/2494.m3u8
-#https://raw.githubusercontent.com/channeliptv0/IPTV/refs/heads/main/OTHERSM3U8/AstroCricketHd.m3u8
-http://filex.me:8080/live/1234567890/1234567890/451415.ts
-
-#EXTINF:-1 tvg-id="cric" tvg-name="WILLOW CRICKET HD" tvg-logo="http://stariptv.fun/logos/WLLOW.png" group-title="Sports",WILLOW CRICKET HD
-#https://d1.merichunidya.com:1686/hls/willowusa.m3u8?md5=7ScD_SHZLsRiN7RPbZxoEw&expires=1756041585
-#https://tiger-hub.vercel.app/WillowHD/tracks-v1a1/mono.m3u8
-https://fl25.moveonjoy.com/WILLOW_CRICKET/index.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", Willow 2 HD
-https://d7.merichunidya.com:1686/hls/willowextra.m3u8?md5=5DbH51yHJpmAgjAww2kOkg&expires=1759217048
-
-#EXTINF:-1 tvg-id="DistroTVUS_79275" tvg-logo="https://a.jsrdn.com/hls/23038/bein-sports-xtra/logo_20231219_184505_68.png" group-title="Sports",beIN SPORTS Xtra
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23038&ads.content_duration=18000&ads.episode_id=79275&ads.show_id=3125&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CSports%20Radio%2CEnglish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=en&ads.showtitle=beIN%20SPORTS%20Xtra&ads.episodetitle=beIN%20SPORTS%20Xtra&ads.keywords=beIN%20Sports%2CSports%2CbeIN&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=bein-xtra&ads.islive=1&ads.streamtype=live&ads.vf=20241020
-
-#EXTINF:-1 tvg-id="DistroTVUS_79276" tvg-logo="https://a.jsrdn.com/hls/23038/bein-sports-xtra-en-espanol/logo_20231219_184521_68.png" group-title="Sports",beIN SPORTS Xtra en Español
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bein-sports-xtra-en-espanol/playlist.m3u8?ads.rnd=__CACHE_BUSTER__&ads.env_i=__env.i__&ads.env_u=__env.u__&ads.name=DistroTV&ads.bundle=__APP_BUNDLE__&ads.storeurl=__STORE_URL__&ads.appCategory=__APP_CATEGORY__&ads.app_version=__APP_VERSION__&ads.width=__WIDTH__&ads.height=__HEIGHT__&ads.deviceId=__DEVICE_ID__&ads.deviceDNT=__LIMIT_AD_TRACKING__&ads.gdpr=__IS_GDPR__&ads.us_privacy=__IS_CCPA__&ads.aid=__ADVERTISING_ID__&ads.deviceMake=__DEVICE__&ads.deviceIdType=__DEVICE_ID_TYPE__&ads.deviceConnectionType=__DEVICE_CONNECTION_TYPE__&ads.deviceCategory=__DEVICE_CATEGORY__&ads.client_ip=__CLIENT_IP__&ads.geo=__GEO_COUNTRY__&ads.lat=__LATITUDE__&ads.long=__LONGITUDE__&ads.dma=__GEO_DMA__&ads.geoType=__GEO_TYPE__&ads.contentid=23038&ads.content_duration=18000&ads.episode_id=79276&ads.show_id=3126&ads.showCategories=IAB17&ads.episodeCategories=IAB17&ads.genre=Sports%2CSports%20Radio%2CSpanish&ads.showRating=TV-PG&ads.episodeRating=TV-PG&ads.language=es&ads.showtitle=beIN%20SPORTS%20Xtra%20en%20Espan%CC%83ol&ads.episodetitle=beIN%20SPORTS%20Xtra%20en%20Espan%CC%83ol&ads.keywords=beIN%20Sports%2CSports%2CbeIN%2CEspanol%2CSpanish&ads.contenturl=__PAGEURL_ESC__&ads.gdprConsent=__GDPR_CONSENT__&ads.paln=__PALN__&ads.tagname=bein-xtra-es&ads.islive=1&ads.streamtype=live&ads.vf=20241020
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Dsports_HD.png" group-title="Sports", Eurosport HD
-http://nayatv.ydns.eu:80/xfireflix/flixfire/11683.ts
-
-#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", Ten Sports HD
-https://d2.merichunidya.com:1686/hls/tenspk.m3u8?md5=R1vqZD8l-gMYbRTDoSY3Gw&expires=1759217049
-#https://rex-streaming.vercel.app/api/BDIX/167569.m3u8|user-agent=@xfireflixbd
-
-
-#EXTINF:-1 tvg-logo="" group-title="Sports" tvg-logo=" ", Ten Cricket
-https://edge2.roarzone.info:8444/roarzone/toffee/ten_cricket/index.m3u8?token=4441abbabb6ac4508a6823bcb4959a44e944f2a0-fb7828d4579c155f89900e54074d5362-1769685591-1769681991
 
 
 
