@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="DD", group-title="SD", Zee Cinema NZ
+
 #EXTINF:-1 tvg-id="DDArunPrabha.in@SD" group-title="DD", group-title="SD",DD Arun Prabha (360p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
 #EXTINF:-1 tvg-id="DDAssam.in@SD" group-title="DD", group-title="SD",DD Assam (504p)
