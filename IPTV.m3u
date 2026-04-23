@@ -26,6 +26,18 @@ http://highmedia.livebox.co.in:80/HIGHNEWShls/LIVE.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://jio.dinesh29.com.np/smart/ardinesh/logos/calcutta-news.png" group-title="Bangla",Calcutta News
 https://akdnetwork.co.in/live/cnnew/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Enter%2010%20Bangla.jpeg" group-title="Bangla",Enter 10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Bangla +
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla", Movie Bangla
+http://alvetv.com/moviebanglatv/8080/index.m3u8
+#EXTINF:-1 tvg-id="KhushbooBangla.in@SD" group-title="Bangla",Khushboo Bangla (720p)
+https://cdn-4.pishow.tv/live/1473/master.m3u8
+#EXTINF:-1 tvg-id="ZBCinema.in" group-title="Bangla",ZB Cinema (720p)
+https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+
+
 
 
 
