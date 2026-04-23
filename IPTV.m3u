@@ -38,6 +38,23 @@ https://cdn-4.pishow.tv/live/1473/master.m3u8
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
 
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/KjjqnRH/Picsart-23-06-30-21-35-20-283.png" group-title="Hindi Movies",Sheemaroo Bollywood
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",B4U Movies
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Hindi Movies",B4U Kadak
+https://amg00877-b4unew-amg00877c4-xiaomi-in-5473.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="c7f57cda-5a87-48c5-a758-4273db0864d2" tvg-name="Goldmines" tvg-logo="https://s3.aynaott.com/storage/d6dd2e3ffede99b3f1d7d4fb8f5061a5" group-title="Hindi Movies",Goldmines
+https://cdn-2.pishow.tv/live/1459/master.m3u8
+#EXTINF:-1 tvg-id="1f8a84b3-8079-4c29-9e73-f219664e9d4d" tvg-name="Goldmines Movies" tvg-logo="https://s3.aynaott.com/storage/26c1570891267164e40563806b25ccdb" group-title="Hindi Movies",Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
+#EXTINF:-1 tvg-id="ManoranjanGrand.in@SD" tvg-logo="https://i.imgur.com/qfMEz78.png" group-title="Hindi Movies",Manoranjan Grand
+https://cdn-1.pishow.tv/live/1011/master.m3u8
+#EXTINF:-1 tvg-id="ManoranjanMovies.in@SD" tvg-logo="https://i.imgur.com/oTBVML2.png" group-title="Hindi Movies",Manoranjan Movies
+https://cdn-2.pishow.tv/live/228/master.m3u8
+
+
+
 
 
 
