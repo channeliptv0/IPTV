@@ -45,8 +45,12 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla", Zee Bangla
 https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",ZEE Bangla HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/536.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla", Colors Bangla
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",Colors Bangla HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/532.ts
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla", Sun Bangla
 http://27.124.71.27/Sun_Bangla/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla", G Series Drama
@@ -91,6 +95,13 @@ http://27.124.71.27/beIN_Sports_3/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports", Bein Sports 4
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
+
+#EXTINF:-1 tvg-id="" group-title="Sports",SONY SPORTS 1HD
+http://stalker.hakunamata.workers.dev/play/1101/index.m3u8
+#EXTINF:-1 tvg-id="" group-title="Sports",SONY SPORTS 2 HD
+http://main.epgmaker.com/live/y49sz6KMQs/6115263489/513.ts
+#EXTINF:-1 tvg-id="" group-title="Sports",SONY SPORTS 5 HD
+http://66.102.126.10:8000/play/a010/index.m3u8
 
 
 
