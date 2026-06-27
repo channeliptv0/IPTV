@@ -84,10 +84,10 @@ https://cdn-2.pishow.tv/live/228/master.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports",Unite8Sports2A
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
-#EXTINF:-1 tvg-name="Fox Sport Fifa" group-title="FIFA World Cup 2026",Fox Sport
+#EXTINF:-1 tvg-name="Fox Sport Fifa" group-title="Sports",Fox Sport
 http://84.17.50.102/fox/index.m3u8
 
-#EXTINF:-1 tvg-id="1489412" tvg-logo="" group-title="Football", Fox Sports 1
+#EXTINF:-1 tvg-id="1489412" tvg-logo="" group-title="Sports", Fox Sports 1
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 https://livecdn-tc-iptv.rumsport10.live/live_abr/451/720p/chunks.m3u8?is_vip=false&token=1782609387-Kv4cPTAAP5YTi-5ae9a39a9053c5188d4f2493c95fc8426a31faa0-8d6be04f6c690af91b189486848a8301
 
@@ -202,3 +202,27 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/70d4f6874fa64032a685e3123520f07d/in
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/a70323c56ac647c2a8c8fc34e4c73912/index.m3u8
 #EXTINF:-1 tvg-id="DDYadagiri.in@SD" group-title="DD",DD Yadagiri (504p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="" group-title="Sports", Sony Liv
+https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u
+
+
+#EXTINF:-1 tvg-id="" group-title="Sports", Live match
+https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.m3u
+
+
+
+
+
+
+
+
+
+
+
+
+
+
