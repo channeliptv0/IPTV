@@ -206,11 +206,13 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/in
 
 
 
-#EXTINF:-1 tvg-id="" group-title="Sports", Sony Liv
+#EXTINF:-1 tvg-id="" group-title="Live", Sony Liv
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u
 
 
-#EXTINF:-1 tvg-id="" group-title="Sports", Live match
+#EXTINF:-1 tvg-id="" group-title="Live", Live match
+#EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.m3u
 
 
