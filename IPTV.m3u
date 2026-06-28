@@ -42,7 +42,8 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla", Star Jalsha
-https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
+#https://tvsen3.aynaott.com/n64PH4YL/tracks-v1a1/mono.ts.m3u8
+https://tvsen4.aynaott.com/n64PH4YL/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla", Zee Bangla
 https://tvsen6.aynaott.com/ZeeBangla/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Bangla",ZEE Bangla HD
