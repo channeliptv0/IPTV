@@ -82,7 +82,10 @@ https://cdn-2.pishow.tv/live/228/master.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Sports",DD Sports HD (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1 tvg-id="" group-title="Sports",Unite8Sports2A
+
+#EXTINF:-1 tvg-id="" group-title="Sports",Unite8Sports1
+https://ranapkbd.site/JOIN@RANAPK33/play.m3u8?id=373312
+#EXTINF:-1 tvg-id="" group-title="Sports",Unite8Sports2
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:-1 tvg-name="Fox Sport Fifa" group-title="Sports",Fox Sport
 http://84.17.50.102/fox/index.m3u8
