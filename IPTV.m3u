@@ -223,7 +223,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/in
 
 #EXTINF:-1 tvg-id="" group-title="Live", Sony Liv
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
-https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u
+#https://raw.githubusercontent.com/srhady/SonyLiv/refs/heads/main/sonyliv_playlist.m3u
+https://sonydaimenew.akamaized.net/hls/live/2037142/cricodi2806/HIN/std_lrh-800300010.m3u8?hdnea=exp=1782704448~acl=/*~id=38635660255347455953202475251791~hmac=2520bad4c2665e338ac92238e4a291ff15e99b0e5ab56542b5535f1d3b7b517e
 
 
 #EXTINF:-1 tvg-id="" group-title="Live", Live match
