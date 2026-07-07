@@ -106,9 +106,8 @@ http://ua.online24.pm/play/1101/350B326FB34F4B8/video.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports", Bein Sports 1
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
-
-
-
+#EXTINF:-1 tvg-id="" group-title="Sports",SONY TEN CRICKET
+http://66.102.126.10:8000/play/a018/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports",SONY SPORTS 1HD
 http://stalker.hakunamata.workers.dev/play/1101/index.m3u8
 #EXTINF:-1 tvg-id="" group-title="Sports",SONY SPORTS 2 HD
