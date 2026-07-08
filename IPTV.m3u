@@ -219,8 +219,8 @@ http://103.155.18.186:8000/play/a09r/index.m3u8535f1d3b7b517e
 #EXTVLCOPT:http-referrer=https://iframe.rumsport10.live/
 https://raw.githubusercontent.com/srhady/bingstream/refs/heads/main/playlist.m3u
 
-#EXTINF:-1 tvg-id="B0H3FG7X6P" tvg-name="India tour of Ireland 2026 - 2nd T20I - Ireland vs India" tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.e1361b59-5b92-40ae-8739-dfaacbb8f54b/4/BOXART-16X9/en-US._UR1920,1080_.jpeg" group-title="Live",India tour of Ireland 2026 - 2nd T20I - Ireland vs India
-http://tv.cloudcdn.me:80/live.ts?channelId=33317&uid=3510&deviceMac=00:1A:79:31:34:0E
+#EXTINF:-1 tvg-id="B0H3FG7X6P" tvg-name="" tvg-logo="" group-title="Live",Cricbuzz
+http://tv.cloudcdn.me:80/live.ts?channelhttps://d3qs3d2rkhfqrt.cloudfront.net/out/v1/8a59a828e80c49d0958925950cec0204/index.m3u8Id=33317&uid=3510&deviceMac=00:1A:79:31:34:0E
 
 
 
